@@ -16,6 +16,6 @@ BUSI 752: Data Mining & Predictive Analytics
 Service
 ======
 
-* BMGT Graduate Student Representative, University of Maryland
+* Graduate Student Government Representative, University of Maryland
 * Main Ogranizer, [Virtual Operations Management Research Lunch](https://sites.google.com/umd.edu/vomrl/home)
 
