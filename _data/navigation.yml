@@ -5,12 +5,12 @@ main:
 
   - title: "Research"
     url: /research/
-    
+
   # - title: "Talks"
   #   url: /talks/    
 
   - title: "Teaching and Service"
-    url: /teaching/    
+    url: /teaching_service/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
