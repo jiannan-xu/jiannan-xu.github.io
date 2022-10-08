@@ -16,7 +16,7 @@ My research interests include marketplace analytics, service operations, and sub
 
 Recent News:
 ======
-* Aug. 2022: I’m giving a poster presentation at at YinzOR 2022 held by Carnegie Mellon University!
+* Aug. 2022: I’m giving a poster presentation at YinzOR 2022 held by Carnegie Mellon University!
 
 Contact:
 ======
