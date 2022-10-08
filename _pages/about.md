@@ -20,4 +20,4 @@ Recent News:
 
 Contact:
 ======
-Email: jiannan [at] umd.edu
+Email: [jiannan@umd.edu](mailto:jiannan@umd.edu)
