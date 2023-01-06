@@ -9,5 +9,6 @@ author_profile: true
 
 2. **Measuring Matching Quality on Freelance Platforms Through Conversational Analytics** Joint work with Ashish S. Kabra and Kunpeng Zhang
 
-3. **Investigating Customer Retention in Subscriptions via Multi-state Survival Model**
+3. **Topic Models for German Federal Constitutional Court Decisions** Joint work with Tin Nguyen 
 
+4. **Investigating Customer Retention in Subscriptions via Multi-state Survival Model** 
