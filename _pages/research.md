@@ -11,4 +11,4 @@ author_profile: true
 
 3. **Topic Models for German Federal Constitutional Court Decisions** Joint work with Tin Nguyen 
 
-4. **Investigating Customer Retention in Subscriptions via Multi-state Survival Model** 
+<!-- 4. **Investigating Customer Retention in Subscriptions via Multi-state Survival Model**  -->
