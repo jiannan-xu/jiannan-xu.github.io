@@ -16,3 +16,5 @@ author_profile: true
 **Topic Models for German Federal Constitutional Court Decisions** Joint work with Tin Nguyen 
 
 **Investigating Customer Retention in Subscriptions via Multi-state Survival Model**
+
+* Presented at YinzOR 2022.
