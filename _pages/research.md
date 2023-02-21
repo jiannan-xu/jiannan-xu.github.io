@@ -9,7 +9,7 @@ author_profile: true
 
 **Understanding Matching Quality on Freelance Platforms Through Conversational Analytics** Joint work with Ashish S. Kabra and Kunpeng Zhang
 
- * Presented at 1st Smith DOIT Doctoral Consortium.
+ * Presented at 1st Smith DOIT Doctoral Consortium, 2023.
 
  * Scheduled to present at POMS Conference Florida Orlando, 2023. 
 
