@@ -12,11 +12,13 @@ I am a second-year Ph.D. student in Operations Management at Robert H. Smith Sch
 
 Research Interests
 ======
-My research interests include marketplace analytics, service operations, and subscription business model. Methodologically, I apply bandit algorithms, conduct causal inference analyses, and combine applied machine learning methods.
+My research interests include marketplace analytics, service operations, and subscription business model. Methodologically, I apply optimization methods, conduct causal inference analyses, and combine applied machine learning algorithms.
 
 Recent News
 ======
-* Aug. 2022: I’m giving a poster presentation at YinzOR 2022 held by Carnegie Mellon University!
+* Feb 17. 2023: I’m organizing 1st Smith DOIT Doctoral Consortium.
+
+* Aug 26. 2022: I’m giving a poster presentation at YinzOR 2022 held by Carnegie Mellon University!
 
 Contact
 ======
