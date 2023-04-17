@@ -5,4 +5,4 @@ permalink: /cv/
 author_profile: true
 ---
 
-Please [click here](https://www.dropbox.com/s/gddik22jtngze4a/Jiannan_CV_Apr%202023.pdf?dl=0) for a current version of my CV.
+Please [click here](https://www.dropbox.com/s/tplfotmsgizxtnr/Jiannan_CV_Latest.pdf?dl=0) for a current version of my CV.
