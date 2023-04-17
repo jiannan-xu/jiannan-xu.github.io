@@ -7,6 +7,5 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
 Please [click here](https://www.dropbox.com/s/gddik22jtngze4a/Jiannan_CV_Apr%202023.pdf?dl=0) for a current version of my CV.
