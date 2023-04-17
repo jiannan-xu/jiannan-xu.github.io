@@ -13,8 +13,6 @@ author_profile: true
 
  * Scheduled to present at POMS Conference Florida Orlando, 2023. 
 
-**Hide and Seek at the German Federal Constitutional Court: Identifying the Justice Referee with Author Topic Mode** Joint work with Tin Trung Nguyen, Jordan Lee Boyd-Graber, Christoph Engel 
-
 **Investigating Customer Retention in Subscriptions via Multi-state Survival Model**
  
  * Presented at YinzOR 2022.
