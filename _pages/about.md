@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student in Operations Management at Robert H. Smith School of Business, the University of Maryland. I received my Bachelor’s degree in Financial Management and Mathematical Statistics from Xiamen University and a Master’s degree in Applied Statistics from the University of Michigan-Ann Arbor.
+I am a second-year Ph.D. student in Operations Management at Robert H. Smith School of Business, the University of Maryland. I received my Bachelor’s degree in Financial Management and Mathematical Statistics from Xiamen University and a Master’s degree in Applied Statistics from the University of Michigan-Ann Arbor. 
 
 Research Interests
 ======
@@ -23,3 +23,4 @@ Recent News
 Contact
 ======
 Email: [jiannan@umd.edu](mailto:jiannan@umd.edu)
+CV: [Check CV here](https://www.dropbox.com/s/gddik22jtngze4a/Jiannan_CV_Apr%202023.pdf?dl=0)
