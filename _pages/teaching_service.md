@@ -17,5 +17,7 @@ Service
 ======
 
 * Graduate Student Government Representative, University of Maryland
+* President, INFORMS University of Maryland Student Chapter 
 * Main Ogranizer, [Virtual Operations Management Research Lunch](https://sites.google.com/umd.edu/vomrl/home)
+
 

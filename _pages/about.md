@@ -16,6 +16,8 @@ My research interests include marketplace analytics, service operations, and sub
 
 Recent News
 ======
+* April 25. 2023: Our student chapter application was approved by INFORMS!
+
 * Feb 17. 2023: I organized 1st Smith DOIT Doctoral Consortium.
 
 * Aug 26. 2022: I gave a poster presentation at YinzOR 2022 held by Carnegie Mellon University!
