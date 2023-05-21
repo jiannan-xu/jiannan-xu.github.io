@@ -17,7 +17,7 @@ author_profile: true
  
  * Presented at YinzOR 2022.
 
-A Colletion of Computer Science Course Projects:
+## A Colletion of Computer Science Course Projects:
 
 **Hide and Seek at the German Federal Constitutional Court: Identifying the Justice Referee with Author Topic Model** Joint work with Tin Nguyen, Jordan Lee Boyd-Graber, Christoph Engel
 
