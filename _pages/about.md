@@ -16,6 +16,10 @@ My research interests include marketplace analytics, service operations, and sub
 
 Recent News
 ======
+* June 11. 2023: I will attend the Behavioral Operations Management Summer Institute hosted by Harvard Business School.
+
+* May 24. 2023: I will present my paper at POMS Conference Florida Orlando, 2023.
+
 * April 25. 2023: Our student chapter application was approved by INFORMS!
 
 * Feb 17. 2023: I organized 1st Smith DOIT Doctoral Consortium.
