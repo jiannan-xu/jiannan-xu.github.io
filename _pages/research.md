@@ -16,3 +16,13 @@ author_profile: true
 **Investigating Customer Retention in Subscriptions via Multi-state Survival Model**
  
  * Presented at YinzOR 2022.
+
+A Colletion of Computer Science Course Projects:
+
+**Hide and Seek at the German Federal Constitutional Court: Identifying the Justice Referee with Author Topic Model** Joint work with Tin Nguyen, Jordan Lee Boyd-Graber, Christoph Engel
+
+**Towards Conceptualization of Fair Explanation: Impact of Asian Hate Speech Explanations on Content Moderators** Joint work with Tin Nguyen, Aayushi Roy
+
+**Bipartite Networked Multi-agent Reinforcement Learning for Decentralized Matching Markets** Joint work with Yan Xu
+
+
