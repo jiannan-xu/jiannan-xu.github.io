@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student in Operations Management at Robert H. Smith School of Business, the University of Maryland. I received my Bachelor’s degree in Financial Management and Mathematical Statistics from Xiamen University and a Master’s degree in Applied Statistics from the University of Michigan-Ann Arbor. 
+I am a third-year Ph.D. student in Operations Management at Robert H. Smith School of Business, the University of Maryland. I received my Bachelor’s degree in Financial Management and Mathematical Statistics from Xiamen University and a Master’s degree in Applied Statistics from the University of Michigan-Ann Arbor. 
 
 Research Interests
 ======
@@ -16,9 +16,13 @@ My research interests include marketplace analytics, service operations, and sub
 
 Recent News
 ======
-* June 11. 2023: I will attend the Behavioral Operations Management Summer Institute hosted by Harvard Business School.
+* Oct 16. 2023: I will present my paper at INFORMS 2023, Phenoix, AZ.
 
-* May 24. 2023: I will present my paper at POMS Conference Florida Orlando, 2023.
+* Sept 6. 2023: I passed my comprehensive exam!
+
+* June 11. 2023: I attended the Behavioral Operations Management Summer Institute hosted by Harvard Business School.
+
+* May 24. 2023: I presented my paper at POMS Conference Florida Orlando, 2023.
 
 * April 25. 2023: Our student chapter application was approved by INFORMS!
 
