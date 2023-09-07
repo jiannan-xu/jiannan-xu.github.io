@@ -5,7 +5,7 @@ title: "Working Projects"
 author_profile: true
 ---
 
-**Assortment Personalization in a Clothing Rental Subscription Model** Joint work with Gah-Yi Ban, Wedad J. Elmaghraby, and L. Beril Toktay.
+**Assortment Personalization in a Subscription Model** Joint work with Gah-Yi Ban, Wedad J. Elmaghraby, and L. Beril Toktay.
 
 **Understanding Matching Quality on Freelance Platforms Through Conversational Analytics** Joint work with Ashish S. Kabra and Kunpeng Zhang
 
