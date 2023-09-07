@@ -11,9 +11,10 @@ author_profile: true
 
  * Scheduled to present at INFORMS 2023, Phenoix, AZ.
 
+ * Presented at POMS Conference Florida Orlando, 2023. 
+
  * Presented at 1st Smith DOIT Doctoral Consortium, 2023.
 
- * Presented at POMS Conference Florida Orlando, 2023. 
 
 ## A Colletion of Computer Science Projects:
 
