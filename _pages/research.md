@@ -7,6 +7,8 @@ author_profile: true
 
 **Assortment Personalization in a Subscription Model** Joint work with Gah-Yi Ban, Wedad J. Elmaghraby, and L. Beril Toktay.
 
+ * Scheduled to present at 2023 Purdue Operations Symposium. 
+
 **Understanding Matching Quality on Freelance Platforms Through Conversational Analytics** Joint work with Ashish S. Kabra and Kunpeng Zhang
 
  * Scheduled to present at INFORMS 2023, Phenoix, AZ.
