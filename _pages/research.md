@@ -18,7 +18,7 @@ author_profile: true
 
 ## A Colletion of Computer Science Projects:
 
-**Towards Conceptualization of Fair Explanation: Impact of Asian Hate Speech Explanations on Content Moderators** Joint work with Tin Nguyen, Aayushi Roy
+**Towards Conceptualization of Fair Explanation: Impact of Asian Hate Speech Explanations on Content Moderators** Joint work with Tin Nguyen, Aayushi Roy, Hal Daumé III, Marine Carpuat
 
 * Under Review at EMNLP 2023.
 
