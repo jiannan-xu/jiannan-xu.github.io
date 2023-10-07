@@ -18,6 +18,8 @@ Recent News
 ======
 * Oct 16. 2023: I will present my paper at INFORMS 2023, Phenoix, AZ.
 
+* Oct 7. 2023: One paper is accepted by EMNLP 2023!
+
 * Sept 7. 2023: I attended 2023 Purdue Operations Symposium. 
 
 * Sept 6. 2023: I passed my comprehensive exam!
