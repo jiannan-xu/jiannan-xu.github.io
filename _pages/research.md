@@ -5,7 +5,7 @@ title: "Research"
 author_profile: true
 ---
 
-## Published and Forthcoming Papers:
+## Papers:
 
 **Towards Conceptualization of Fair Explanation: Impact of Asian Hate Speech Explanations on Content Moderators** Joint work with Tin Nguyen, Aayushi Roy, Hal Daumé III, Marine Carpuat
 
@@ -23,7 +23,6 @@ author_profile: true
  * Presented at POMS Conference Florida Orlando, 2023. 
 
  * Presented at 1st Smith DOIT Doctoral Consortium, 2023.
-
 
 ## A Colletion of Computer Science Projects:
 
