@@ -12,7 +12,7 @@ I am a third-year Ph.D. student in Operations Management at Robert H. Smith Scho
 
 Research Interests
 ======
-My research interests include marketplace analytics, service operations, and AI for business operations. Methodologically, I apply optimization methods, conduct causal inference, and combine natural language processing and machine learning algorithms. 
+My research interests include marketplace analytics, service operations, and AI for social good. Methodologically, I apply optimization methods, conduct causal inference, and combine natural language processing and machine learning algorithms. 
 
 Recent News
 ======
