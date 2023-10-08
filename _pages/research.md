@@ -21,7 +21,7 @@ author_profile: true
 
  * Presented at 1st Smith DOIT Doctoral Consortium, 2023.
 
-**From Complexity to Clarity: Trustworthy NLP to Alleviate Disparity in Credit Card Debt** Joint work with Jane Jiang,  Wedad J. Elmaghraby.
+**From Complexity to Clarity: Trustworthy NLP to Alleviate Disparity in Credit Card Debt** Joint work with Jane Jiang, Wedad J. Elmaghraby.
 
 # A Colletion of Computer Science Projects
 
