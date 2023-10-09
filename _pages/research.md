@@ -4,7 +4,7 @@ permalink: /research/
 title: "Papers"
 author_profile: true
 ---
-**Towards Conceptualization of "Fair Explanation": Impact of Asian Hate Speech Explanations on Content Moderators** Joint work with Tin Nguyen, Aayushi Roy, Hal Daumé III, Marine Carpuat.
+**Towards Conceptualization of "Fair Explanation": Impact of Asian Hate Speech Explanations on Content Moderators** Joint work with Tin Nguyen, Aayushi Roy, Hal Daumé III, and Marine Carpuat.
 
 * Accepted by EMNLP 2023 Main Conference.
 
@@ -21,7 +21,7 @@ author_profile: true
 
  * Presented at 1st Smith DOIT Doctoral Consortium, 2023.
 
-**From Complexity to Clarity: Trustworthy NLP to Alleviate Disparity in Credit Card Debt** Joint work with Jane Jiang, Wedad J. Elmaghraby.
+**From Complexity to Clarity: Trustworthy NLP to Alleviate Disparity in Credit Card Debt** Joint work with Jane Jiang and Wedad J. Elmaghraby.
 
 # A Colletion of Computer Science Projects
 
