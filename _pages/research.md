@@ -4,6 +4,7 @@ permalink: /research/
 title: "Papers"
 author_profile: true
 ---
+
 **Towards Conceptualization of "Fair Explanation": Impact of Asian Hate Speech Explanations on Content Moderators** Joint work with Tin Nguyen, Aayushi Roy, Hal Daumé III, and Marine Carpuat.
 
 * Accepted by EMNLP 2023 Main Conference.
@@ -15,7 +16,7 @@ author_profile: true
 
 **Understanding Matching Quality on Freelance Platforms Through Conversational Analytics** Joint work with Ashish S. Kabra and Kunpeng Zhang.
 
- * Scheduled to present at INFORMS 2023, Phenoix, AZ.
+ * Presented at INFORMS 2023, Phenoix, AZ.
 
  * Presented at POMS Conference Florida Orlando, 2023. 
 
