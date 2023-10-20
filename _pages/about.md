@@ -16,6 +16,8 @@ My research interests include marketplace analytics, service operations, and AI 
 
 Recent News
 ======
+* Oct 16. 2023: Our student chapter received the 2023 INFORMS Student Chapter Annual Award - Honorable Mention!
+
 * Oct 16. 2023: I presented my paper at INFORMS 2023, Phenoix, AZ.
 
 * Oct 7. 2023: One paper is accepted by EMNLP 2023!
