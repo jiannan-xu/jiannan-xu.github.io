@@ -5,7 +5,7 @@ title: "Papers"
 author_profile: true
 ---
 
-**Towards Conceptualization of "Fair Explanation": Impact of Asian Hate Speech Explanations on Content Moderators** Joint work with Tin Nguyen, Aayushi Roy, Hal Daumé III, and Marine Carpuat.
+[**Towards Conceptualization of "Fair Explanation": Impact of Asian Hate Speech Explanations on Content Moderators**](https://arxiv.org/pdf/2310.15055.pdf) Joint work with Tin Nguyen, Aayushi Roy, Hal Daumé III, and Marine Carpuat.
 
 * Accepted by EMNLP 2023 Main Conference.
 
