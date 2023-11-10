@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student in Operations Management at Robert H. Smith School of Business, the University of Maryland. I am advised by Professor [Wedad J. Elmaghraby](https://www.rhsmith.umd.edu/directory/wedad-j-elmaghraby). I received my Bachelor’s degree in Financial Management and Mathematical Statistics from Xiamen University and a Master’s degree in Applied Statistics from the University of Michigan-Ann Arbor. 
+I am a third-year Ph.D. student in Operations Management at the Robert H. Smith School of Business, University of Maryland. I am advised by Professor [Wedad J. Elmaghraby](https://www.rhsmith.umd.edu/directory/wedad-j-elmaghraby). I received my Bachelor’s degree in Financial Management and Mathematical Statistics from Xiamen University and a Master’s degree in Applied Statistics from the University of Michigan-Ann Arbor. 
 
 Research Interests
 ======
