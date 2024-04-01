@@ -24,6 +24,8 @@ author_profile: true
 
 **From Complexity to Clarity: Trustworthy NLP to Alleviate Disparity in Credit Card Debt** Joint work with Jane Jiang and Wedad J. Elmaghraby.
 
+ * Supported by the Faculty-Student Research Award (FSRA, $15,000) from the Graduate School.
+
 # A Colletion of Computer Science Projects
 
 **Hide and Seek at the German Federal Constitutional Court: Identifying the Justice Referee with Author Topic Model** Joint work with Tin Nguyen, Andrew Mao, Jordan Boyd-Graber, and Christoph Engel.

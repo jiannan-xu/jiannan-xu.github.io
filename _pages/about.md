@@ -16,6 +16,10 @@ My research interests include marketplace analytics, service operations, and AI 
 
 Recent News
 ======
+* March 26. 2024: Our project received the Faculty-Student Research Award (FSRA, $15,000) from the Graduate School!
+
+* March 15. 2024: We host the 2nd Smith DOIT Doctoral Consortium!
+
 * Oct 16. 2023: Our student chapter received the 2023 INFORMS Student Chapter Annual Award - Honorable Mention!
 
 * Oct 16. 2023: I presented my paper at INFORMS 2023, Phenoix, AZ.
