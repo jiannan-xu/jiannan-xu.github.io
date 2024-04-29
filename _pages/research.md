@@ -12,13 +12,21 @@ author_profile: true
 # Working Projects
 **Assortment Personalization in a Subscription Model** Joint work with Gah-Yi Ban, Wedad J. Elmaghraby, and L. Beril Toktay.
 
+ * Scheduled to present at INFORMS 2024, Seattle, WA.
+
+ * Presented at POMS Conference 2024, Minneapolis, MN.
+
  * Presented at 2023 Purdue Operations Symposium. 
 
-**Understanding Matching Quality on Freelance Platforms Through Conversational Analytics** Joint work with Ashish S. Kabra and Kunpeng Zhang.
+**Crafting Freelance Success: Unveiling the Impact of Availability on Match Quality through Conversational Analytics** Joint work with Ashish S. Kabra and Kunpeng Zhang.
+
+ * Presented at POMS Conference 2024, Minneapolis, MN.
+
+ * Presented at 2nd Smith DOIT Doctoral Consortium, 2024.
 
  * Presented at INFORMS 2023, Phenoix, AZ.
 
- * Presented at POMS Conference Florida Orlando, 2023. 
+ * Presented at POMS Conference 2023, Orlando, FL. 
 
  * Presented at 1st Smith DOIT Doctoral Consortium, 2023.
 
@@ -31,5 +39,8 @@ author_profile: true
 **Hide and Seek at the German Federal Constitutional Court: Identifying the Justice Referee with Author Topic Model** Joint work with Tin Nguyen, Andrew Mao, Jordan Boyd-Graber, and Christoph Engel.
 
 **Bipartite Networked Multi-agent Reinforcement Learning for Decentralized Matching Markets** Joint work with Yan Xu.
+
+ * Presented at POMS Conference 2024, Minneapolis, MN.
+
 
 
