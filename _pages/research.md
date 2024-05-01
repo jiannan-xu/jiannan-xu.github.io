@@ -14,6 +14,8 @@ author_profile: true
 
  * Scheduled to present at INFORMS 2024, Seattle, WA.
 
+ * Scheduled to present at Imperial President's PhD Scholars Research Symposium 2024. (By co-author)
+
  * Presented at POMS Conference 2024, Minneapolis, MN.
 
  * Presented at 2023 Purdue Operations Symposium. 
