@@ -44,5 +44,7 @@ author_profile: true
 
  * Presented at POMS Conference 2024, Minneapolis, MN.
 
+**Reconciling Technical and U.S. Law-informed Fairness Criteria for Recidivism Prediction: Challenges, Proposals, and Empirical Relevance of Demographics** Joint work with Tin Nguyen, Phuong-Anh Nguyen-Le, Donald Braman, Jonathan Lazar, Hal Daumé III and Zubin Jelveh
+
 
 
