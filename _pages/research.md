@@ -10,7 +10,7 @@ author_profile: true
 * Accepted by EMNLP 2023 Main Conference.
 
 # Working Projects
-**Assortment Personalization in a Subscription Model** Joint work with Gah-Yi Ban, Wedad J. Elmaghraby, and L. Beril Toktay.
+**Assortment Optimization in a Subscription Model** Joint work with Gah-Yi Ban, Wedad J. Elmaghraby, and L. Beril Toktay.
 
  * Scheduled to present at INFORMS 2024, Seattle, WA.
 
