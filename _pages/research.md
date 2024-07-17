@@ -10,41 +10,27 @@ author_profile: true
 * Accepted by EMNLP 2023 Main Conference.
 
 # Working Projects
-**Assortment Optimization in a Subscription Model** Joint work with Gah-Yi Ban, Wedad J. Elmaghraby, and L. Beril Toktay.
-
+**Personalized Assortment Optimization for a Subscription Business Model** Joint work with Gah-Yi Ban, Wedad J. Elmaghraby, and L. Beril Toktay.
  * Scheduled to present at INFORMS 2024, Seattle, WA.
 
- * Scheduled to present at Imperial President's PhD Scholars Research Symposium 2024. (By co-author)
-
- * Presented at POMS Conference 2024, Minneapolis, MN.
-
- * Presented at 2023 Purdue Operations Symposium. 
+ * Presented at Purdue Operations Symposium (2023), POMS (2024), and Imperial President's PhD Scholars Research Symposium (2024, by co-author). 
 
 **Crafting Freelance Success: Unveiling the Impact of Availability on Match Quality through Conversational Analytics** Joint work with Ashish S. Kabra and Kunpeng Zhang.
+ * Scheduled to present at Purdue Operations Conference (2024). 
 
- * Presented at POMS Conference 2024, Minneapolis, MN.
-
- * Presented at 2nd Smith DOIT Doctoral Consortium, 2024.
-
- * Presented at INFORMS 2023, Phenoix, AZ.
-
- * Presented at POMS Conference 2023, Orlando, FL. 
-
- * Presented at 1st Smith DOIT Doctoral Consortium, 2023.
+ * Presented at POMS (2023, 2024), INFORMS (2023), and Smith DOIT Doctoral Consortium (2023, 2024).
 
 **From Complexity to Clarity: Trustworthy NLP to Alleviate Disparity in Credit Card Debt** Joint work with Jane Jiang and Wedad J. Elmaghraby.
-
  * Supported by the Faculty-Student Research Award (FSRA, $15,000) from the Graduate School.
 
 # A Colletion of Computer Science Projects
 
+**Reconciling Technical and U.S. Law-informed Fairness Criteria for Recidivism Prediction: Challenges, Proposals, and Empirical Relevance of Demographics** Joint work with Tin Nguyen, Phuong-Anh Nguyen-Le, Donald Braman, Jonathan Lazar, Hal Daumé III, and Zubin Jelveh
+
 **Hide and Seek at the German Federal Constitutional Court: Identifying the Justice Referee with Author Topic Model** Joint work with Tin Nguyen, Andrew Mao, Jordan Boyd-Graber, and Christoph Engel.
 
 **Bipartite Networked Multi-agent Reinforcement Learning for Decentralized Matching Markets** Joint work with Yan Xu.
-
  * Presented at POMS Conference 2024, Minneapolis, MN.
-
-**Reconciling Technical and U.S. Law-informed Fairness Criteria for Recidivism Prediction: Challenges, Proposals, and Empirical Relevance of Demographics** Joint work with Tin Nguyen, Phuong-Anh Nguyen-Le, Donald Braman, Jonathan Lazar, Hal Daumé III and Zubin Jelveh
 
 
 
