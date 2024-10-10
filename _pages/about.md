@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. Candidate in Operations Management at the Robert H. Smith School of Business, University of Maryland. I am advised by Professor [Wedad J. Elmaghraby](https://www.rhsmith.umd.edu/directory/wedad-j-elmaghraby). I received my Bachelor’s degree in Financial Management and Mathematical Statistics from Xiamen University and a Master’s degree in Applied Statistics from the University of Michigan-Ann Arbor. 
+I am a fourth-year Ph.D. Candidate in Operations Management at the Robert H. Smith School of Business, University of Maryland. I am advised by Professor [Wedad J. Elmaghraby](https://www.rhsmith.umd.edu/directory/wedad-j-elmaghraby). I received my Bachelor’s degree in Financial Management and Mathematical Statistics from Xiamen University and a Master’s degree in Applied Statistics from the University of Michigan-Ann Arbor. 
 
 Research Interests
 ======
@@ -23,9 +23,10 @@ Recent News
 
 * Oct 16. 2023: Our student chapter received the 2023 INFORMS Student Chapter Annual Award - Honorable Mention!
 
-* Oct 16. 2023: I presented my paper at INFORMS 2023, Phenoix, AZ.
-
 * Oct 7. 2023: One paper is accepted by EMNLP 2023!
+
+<!-- * Oct 16. 2023: I presented my paper at INFORMS 2023, Phenoix, AZ.
+
 
 * Sept 7. 2023: I attended 2023 Purdue Operations Symposium. 
 
@@ -41,10 +42,10 @@ Recent News
 
 * Feb 17. 2023: I organized 1st Smith DOIT Doctoral Consortium.
 
-* Aug 26. 2022: I gave a poster presentation at YinzOR 2022 held by Carnegie Mellon University!
+* Aug 26. 2022: I gave a poster presentation at YinzOR 2022 held by Carnegie Mellon University! -->
 
 Contact
 ======
 Email: [jiannan@umd.edu](mailto:jiannan@umd.edu)
 
-CV: Please [click here](https://www.dropbox.com/scl/fi/hmszqef32l1yj3g6zr59k/Jiannan_CV.pdf?rlkey=skatzorlirzzo5ael8emtr5yl&dl=0) for a current version of my CV.
+CV: Please [click here](https://www.dropbox.com/scl/fi/lw7w6ev6o15zbfugvtmfh/Jiannan_CV_October-2024.pdf?rlkey=o12eouw1fal7z5k3harmy5t6r&st=f6nnxp5i&dl=0) for a current version of my CV.
