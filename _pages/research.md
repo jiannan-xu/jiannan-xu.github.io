@@ -25,9 +25,9 @@ author_profile: true
 
 # A Colletion of Computer Science Projects
 
-**Technical AI Fairness Criteria Might Constitutionally Apply to U.S. Recidivism Risk Assessment Tools, but How and for Whom?** Joint work with Tin Nguyen, Phuong-Anh Nguyen-Le, Donald Braman, Jonathan Lazar, Hal Daumé III, and Zubin Jelveh
+**Technical AI Fairness Criteria Might Constitutionally Apply to U.S. Recidivism Risk Assessment Tools, but How and for Whom?** Joint work with Tin Nguyen, Kem Nguyen-Le, Donald Braman, Jonathan Lazar, Hal Daumé III, and Zubin Jelveh
 
-**Effort-aware Fairness: Measures and Mitigations in AI-assisted Decision Making** Joint work with Tin Nguyen, Zora Che, Phuong-Anh Nguyen-Le, Donald Braman, Hal Daumé III, Furong Huang, and Zubin Jelveh
+**Effort-aware Fairness: Measures and Mitigations in AI-assisted Decision Making** Joint work with Tin Nguyen, Zora Che, Kem Nguyen-Le, Donald Braman, Hal Daumé III, Furong Huang, and Zubin Jelveh
 <!-- **Hide and Seek at the German Federal Constitutional Court: Identifying the Justice Referee with Author Topic Model** Joint work with Tin Nguyen, Andrew Mao, Jordan Boyd-Graber, and Christoph Engel. -->
 
 **Bipartite Networked Multi-agent Reinforcement Learning for Decentralized Matching Markets** Joint work with Yan Xu.
