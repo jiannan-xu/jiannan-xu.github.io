@@ -13,6 +13,8 @@ author_profile: true
 **Personalized Assortment Optimization for a Subscription Business Model of Experience Goods** Joint work with Gah-Yi Ban, Wedad J. Elmaghraby, and L. Beril Toktay.
  * Scheduled to present at INFORMS 2024, Seattle, WA.
 
+ * Finalist, INFORMS MIF Summer Webinar Competition, 2024.
+
  * Presented at Purdue Operations Symposium (2023), POMS (2024), and Imperial President's PhD Scholars Research Symposium (2024, by co-author). 
 
 **Crafting Freelance Success: Unveiling the Impact of Availability on Match Quality through Conversational Analytics** Joint work with Ashish S. Kabra and Kunpeng Zhang.
