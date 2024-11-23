@@ -8,9 +8,9 @@ author_profile: true
 Teaching
 ======
 
-* Instructor: BMGT 230, Business Statistics, Undergraduate Core Course, Summer 2024
-* Teaching Assistant: BUSI 752, Data Mining & Predictive Analytics, MBA Core Course, Summer 2022
-* Tutor: ECON 603 Microeconomic Theory I, Fall 2023
+* Instructor: BMGT 230, Business Statistics, Undergraduate Core Course (Summer 2024, Winter 2025)
+* Teaching Assistant: BUSI 752, Data Mining & Predictive Analytics, MBA Core Course (Summer 2022)
+* Tutor: ECON 603 Microeconomic Theory I (Fall 2023)
 
 Service
 ======
