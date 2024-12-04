@@ -19,5 +19,6 @@ Service
 * President, INFORMS University of Maryland Student Chapter 
 * Main Ogranizer, [Virtual Operations Management Research Lunch](https://sites.google.com/umd.edu/vomrl/home)
 * Referee: EMNLP 2023, ICLR 2024 Tiny Papers, NAACL Student Research Workshop 2024, INFORMS Data Science Workshop 2024
+* Session Chair: POMS 2025 Annual Conference
 
 
