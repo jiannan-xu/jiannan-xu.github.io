@@ -16,6 +16,7 @@ My research interests include marketplace analytics, service operations, and AI 
 
 Recent News
 ======
+* Oct 16. 2024: Our student chapter received the 2024 INFORMS Student Chapter Annual Award - Cum Laude!
 
 * Mar 26. 2024: Our project received the Faculty-Student Research Award (FSRA, $15,000) from the Graduate School!
 
@@ -48,4 +49,4 @@ Contact
 ======
 Email: [jiannan@umd.edu](mailto:jiannan@umd.edu)
 
-CV: Please [click here](https://www.dropbox.com/scl/fi/3k36kiou3hqjjyuh507eu/Jiannan_CV_October-2024.pdf?rlkey=psgrttuay0ajf9sdswf81xqgx&st=uzvx09mk&dl=0) for a current version of my CV.
+CV: Please [click here](https://www.dropbox.com/scl/fi/d80bnjmow0w5ock4jqfak/Jiannan_CV.pdf?rlkey=5numtbd60gws47vzwz0rx03d5&st=ve82iqod&dl=0) for a current version of my CV.
