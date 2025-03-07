@@ -16,6 +16,8 @@ My research interests include marketplace analytics, service operations, and AI 
 
 Recent News
 ======
+* Mar 6, 2025: Our student chapter is oragnizing the 3rd Smith DOIT Doctoral Consortium. Please [sign up](https://go.umd.edu/doit-consortium-2025) to attend if you are interested! 
+
 * Oct 16. 2024: Our student chapter received the 2024 INFORMS Student Chapter Annual Award - Cum Laude!
 
 * Mar 26. 2024: Our project received the Faculty-Student Research Award (FSRA, $15,000) from the Graduate School!
