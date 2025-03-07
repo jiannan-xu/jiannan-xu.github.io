@@ -13,7 +13,7 @@ author_profile: true
  * Presented at INFORMS (2024), POMS (2024) , Imperial President's PhD Scholars Research Symposium (2024, by co-author), and Purdue Operations Symposium (2023). 
 
 # Working Projects
-**Words Matter! Dynamic Forecasting of Freelance Job Success Using Conversational Analytics** Joint work with Ashish S. Kabra, Kunpeng Zhang, and Wedad J. Elmaghraby, 
+**Words Matter! Dynamic Forecasting of Freelance Job Success Using Conversational Analytics** Joint work with Ashish S. Kabra, Kunpeng Zhang, and Wedad J. Elmaghraby.
  * Presented at Purdue Operations Conference (2024), POMS (2023, 2024), INFORMS (2023), and Smith DOIT Doctoral Consortium (2023, 2024).
 
 **AI-Infused Nudges for Smarter Investing: Mitigating Herding Bias in Digital Trading Platforms** Joint work with Jane Jiang and Wedad J. Elmaghraby.
@@ -21,10 +21,10 @@ author_profile: true
 
 # A Colletion of Computer Science Projects
 
-**Technical AI Fairness Criteria Might Constitutionally Apply to U.S. Recidivism Risk Assessment Tools, but How and for Whom?** Joint work with Tin Nguyen, Phuong-Anh Nguyen-Le, Donald Braman, Jonathan Lazar, Hal Daumé III, and Zubin Jelveh
+**Technical AI Fairness Criteria Might Constitutionally Apply to U.S. Recidivism Risk Assessment Tools, but How and for Whom?** Joint work with Tin Nguyen, Phuong-Anh Nguyen-Le, Donald Braman, Jonathan Lazar, Hal Daumé III, and Zubin Jelveh.
  * Accepted by ACM Symposium on Computer Science & Law, 2025 (WIP)
 
-**Effort-aware Fairness: It Matters How AI Decision Subjects Get There!** Joint work with Tin Nguyen, Zora Che, Phuong-Anh Nguyen-Le, Donald Braman, Hal Daumé III, Furong Huang, and Zubin Jelveh
+**Effort-aware Fairness: It Matters How AI Decision Subjects Get There!** Joint work with Tin Nguyen, Zora Che, Phuong-Anh Nguyen-Le, Donald Braman, Hal Daumé III, Furong Huang, and Zubin Jelveh.
  * Accepted by ACM Symposium on Computer Science & Law, 2025 (WIP)
 
 <!-- **Hide and Seek at the German Federal Constitutional Court: Identifying the Justice Referee with Author Topic Model** Joint work with Tin Nguyen, Andrew Mao, Jordan Boyd-Graber, and Christoph Engel. -->
