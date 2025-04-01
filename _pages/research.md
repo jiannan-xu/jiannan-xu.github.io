@@ -19,6 +19,9 @@ author_profile: true
 **AI-Infused Nudges for Smarter Investing: Mitigating Herding Bias in Digital Trading Platforms** Joint work with Jane Jiang and Wedad J. Elmaghraby.
  * Supported by the Faculty-Student Research Award (FSRA, $15,000) from the Graduate School.
 
+**AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights** Joint work with Gujie Li and Jane Jiang.
+ * Presented at Smith DOIT Doctoral Consortium 2025. 
+
 # A Colletion of Computer Science Projects
 
 **Technical AI Fairness Criteria Might Constitutionally Apply to U.S. Recidivism Risk Assessment Tools, but How and for Whom?** Joint work with Tin Nguyen, Phuong-Anh Nguyen-Le, Donald Braman, Jonathan Lazar, Hal Daumé III, and Zubin Jelveh.
