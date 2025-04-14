@@ -14,6 +14,7 @@ author_profile: true
 
 # Working Projects
 **Words Matter! Dynamic Forecasting of Freelance Job Success Using Conversational Analytics** Joint work with Ashish S. Kabra, Kunpeng Zhang, and Wedad J. Elmaghraby.
+ * College-Level Winner, UMD Three-Minute Thesis (3MT) Competition 2025
  * Presented at Purdue Operations Conference (2024), POMS (2023, 2024), INFORMS (2023), and Smith DOIT Doctoral Consortium (2023, 2024).
 
 **AI-Infused Nudges for Smarter Investing: Mitigating Herding Bias in Digital Trading Platforms** Joint work with Jane Jiang and Wedad J. Elmaghraby.
