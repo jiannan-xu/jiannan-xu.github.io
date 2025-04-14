@@ -10,11 +10,12 @@ author_profile: true
 
 [**Personalized Assortment Optimization for a Subscription Business Model of Experience Goods**](https://ssrn.com/abstract=5159539) Joint work with Gah-Yi Ban, Wedad J. Elmaghraby, and L. Beril Toktay.
  * Finalist, INFORMS MIF Summer Webinar Competition, 2024.
- * Presented at INFORMS (2024), POMS (2024), and Purdue Operations Symposium (2023). Presented by my coauthors at the Imperial President's PhD Scholars Research Symposium 2024, NYU Stern TOPS Seminar, European TOM Seminar, NOVA University Lisbon, and Durham University. 
+ * Presented at INFORMS (2024), POMS (2024), and Purdue Operations Symposium (2023). 
+ * Presented by my coauthors at the Imperial President's PhD Scholars Research Symposium 2024, NYU Stern TOPS Seminar, Umich Ross TO Seminar, European TOM Seminar, NOVA University Lisbon, Durham University, and London Operations Researchers Day. 
 
 # Working Projects
 **Words Matter! Dynamic Forecasting of Freelance Job Success Using Conversational Analytics** Joint work with Ashish S. Kabra, Kunpeng Zhang, and Wedad J. Elmaghraby.
- * College-Level Winner, UMD Three-Minute Thesis (3MT) Competition 2025
+ * College-Level Winner, UMD Three-Minute Thesis (3MT) Competition 2025.
  * Presented at Purdue Operations Conference (2024), POMS (2023, 2024), INFORMS (2023), and Smith DOIT Doctoral Consortium (2023, 2024).
 
 **AI-Infused Nudges for Smarter Investing: Mitigating Herding Bias in Digital Trading Platforms** Joint work with Jane Jiang and Wedad J. Elmaghraby.
