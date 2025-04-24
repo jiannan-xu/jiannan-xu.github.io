@@ -11,17 +11,19 @@ I am a fourth-year Ph.D. Candidate in Operations Management at the Robert H. Smi
 
 Research Interests
 ======
-My research interests include marketplace analytics, service operations, and AI for social good. Methodologically, I apply optimization methods, conduct causal inference, and combine natural language processing and machine learning algorithms. 
+My research centers on the use of artificial intelligence for decision making in operations, with a focus on personalization, prediction, and persuasion. I work at the intersection of marketplace analytics, service operations, and AI for social good--addressing critical issues such as algorithmic fairness, AI copyright infringement, and implicit biases in large language models. Methodologically, I employ optimization techniques, conduct causal inference, and use natural language processing and machine learning to analyze unstructured data, generate business insights, and address complex operational challenges.
 
 Recent News
 ======
-* Mar 6, 2025: Our student chapter is oragnizing the 3rd Smith DOIT Doctoral Consortium. Please [sign up](https://go.umd.edu/doit-consortium-2025) to attend if you are interested! 
+* Apr 24, 2025: One paper is accepted by ICAIL 2025!
+
+* Mar 6, 2025: Our student chapter hosted the 3rd Smith DOIT Doctoral Consortium!
 
 * Oct 16. 2024: Our student chapter received the 2024 INFORMS Student Chapter Annual Award - Cum Laude!
 
 * Mar 26. 2024: Our project received the Faculty-Student Research Award (FSRA, $15,000) from the Graduate School!
 
-* Mar 15. 2024: We host the 2nd Smith DOIT Doctoral Consortium!
+* Mar 15. 2024: We hosted the 2nd Smith DOIT Doctoral Consortium!
 
 * Oct 16. 2023: Our student chapter received the 2023 INFORMS Student Chapter Annual Award - Honorable Mention!
 
@@ -50,4 +52,4 @@ Contact
 ======
 Email: [jiannan@umd.edu](mailto:jiannan@umd.edu)
 
-CV: Please [click here](https://www.dropbox.com/scl/fi/d80bnjmow0w5ock4jqfak/Jiannan_CV.pdf?rlkey=5numtbd60gws47vzwz0rx03d5&st=ve82iqod&dl=0) for a current version of my CV.
+CV: Please [click here](https://www.dropbox.com/scl/fi/d80bnjmow0w5ock4jqfak/Jiannan_CV.pdf?rlkey=5numtbd60gws47vzwz0rx03d5&st=6fsaykwn&dl=0) for a current version of my CV.
