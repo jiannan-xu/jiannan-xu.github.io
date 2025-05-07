@@ -11,7 +11,7 @@ I am a fourth-year Ph.D. Candidate in Operations Management at the Robert H. Smi
 
 Research Interests
 ======
-My research centers on the use of artificial intelligence for decision making in operations, with a focus on personalization, prediction, and persuasion. I work at the intersection of marketplace analytics, service operations, and AI for social good---addressing critical issues such as algorithmic fairness, AI copyright infringement, and implicit biases in large language models. Methodologically, I employ optimization techniques, conduct causal inference, and use natural language processing and machine learning to analyze unstructured data, generate business insights, and address complex operational challenges.
+My research centers on the use of artificial intelligence for decision making in operations, with a focus on personalization, prediction, and persuasion. I work at the intersection of marketplace analytics, service operations, and AI for social good---addressing critical issues such as algorithmic fairness, AI copyright infringement, and implicit biases in large language models. Methodologically, I draw on optimization, causal inference, and machine learning---particularly natural language processing---to analyze unstructured data, uncover business insights, and tackle complex operational challenges.
 
 Recent News
 ======
