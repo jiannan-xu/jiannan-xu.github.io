@@ -13,15 +13,17 @@ author_profile: true
 [**Towards Conceptualization of “Fair Explanation”: Disparate Impacts of anti-Asian Hate Speech Explanations on Content Moderators**](https://aclanthology.org/2023.emnlp-main.602) Joint work with Tin Nguyen, Aayushi Roy, Hal Daumé III, and Marine Carpuat. 
  * In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pages 9696–9717, Singapore. Association for Computational Linguistics.
 
-**Technical AI Fairness Criteria Might Constitutionally Apply to U.S. Recidivism Risk Assessment Tools, but How and for Whom?** Joint work with Tin Nguyen, Phuong-Anh Nguyen-Le, Donald Braman, Jonathan Lazar, Hal Daumé III, and Zubin Jelveh.
- * Accepted by the 20th International Conference on Artificial Intelligence and Law (ICAIL 2025) (Forthcoming).
+**Which Demographic Features Are Relevant for Individual Fairness Evaluation of U.S. Recidivism Risk Assessment Tools?** Joint work with Tin Nguyen, Phuong-Anh Nguyen-Le, Donald Braman, Jonathan Lazar, Hal Daumé III, and Zubin Jelveh.
+ * Accepted by the 20th International Conference on Artificial Intelligence and Law (ICAIL 2025).
+ * Related law review article: [*How May U.S. Courts Scrutinize Their Recidivism Risk Assessment Tools? Contextualizing AI Fairness Criteria on a Judicial Scrutiny-based Framework*](https://www.arxiv.org/abs/2505.02749)
 
-# Works-In-Progress
+
+# Selected Works-In-Progress
 **Words Matter! Dynamic Forecasting of Freelance Job Success Using Conversational Analytics** Joint work with Ashish S. Kabra, Kunpeng Zhang, and Wedad J. Elmaghraby.
  * College-Level Winner, UMD Three-Minute Thesis (3MT) Competition 2025.
  * Presented at Purdue Operations Conference (2024), POMS (2023, 2024), INFORMS (2023), and Smith DOIT Doctoral Consortium (2023, 2024).
 
-**AI-Infused Nudges for Smarter Investing: Mitigating Herding Bias in Digital Trading Platforms** Joint work with Jane Jiang and Wedad J. Elmaghraby.
+**AI-Infused Nudges for Supply Chain Decision Making** Joint work with Jane Jiang and Wedad J. Elmaghraby.
  * Supported by the Faculty-Student Research Award (FSRA, $15,000) from the Graduate School.
 
 **AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights** Joint work with Gujie Li and Jane Jiang.
@@ -31,10 +33,10 @@ author_profile: true
  * Accepted by ACM Symposium on Computer Science & Law, 2025 (WIP)
 
 <!-- **Hide and Seek at the German Federal Constitutional Court: Identifying the Justice Referee with Author Topic Model** Joint work with Tin Nguyen, Andrew Mao, Jordan Boyd-Graber, and Christoph Engel. -->
-
+<!-- 
 **Bipartite Networked Multi-agent Reinforcement Learning for Decentralized Matching Markets** Joint work with Yan Xu.
  * Accepted by Yale 2024 Conference on AI/ML/BA.
- * Presented at POMS Conference 2024, Minneapolis, MN.
+ * Presented at POMS Conference 2024, Minneapolis, MN. -->
 
 
 
