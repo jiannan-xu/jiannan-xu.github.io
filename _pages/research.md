@@ -15,7 +15,7 @@ author_profile: true
 
 **Which Demographic Features Are Relevant for Individual Fairness Evaluation of U.S. Recidivism Risk Assessment Tools?** Joint work with Tin Nguyen, Phuong-Anh Nguyen-Le, Donald Braman, Jonathan Lazar, Hal Daumé III, and Zubin Jelveh.
  * Accepted by the 20th International Conference on Artificial Intelligence and Law (ICAIL 2025).
- * Related law review article: [*How May U.S. Courts Scrutinize Their Recidivism Risk Assessment Tools? Contextualizing AI Fairness Criteria on a Judicial Scrutiny-based Framework*](https://www.arxiv.org/abs/2505.02749)
+ * Related law review article: [*How May U.S. Courts Scrutinize Their Recidivism Risk Assessment Tools? Contextualizing AI Fairness Criteria on a Judicial Scrutiny-based Framework*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5242075)
 
 
 # Selected Works-In-Progress
