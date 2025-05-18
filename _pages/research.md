@@ -13,7 +13,7 @@ author_profile: true
 [**Towards Conceptualization of “Fair Explanation”: Disparate Impacts of anti-Asian Hate Speech Explanations on Content Moderators**](https://aclanthology.org/2023.emnlp-main.602) Joint work with Tin Nguyen, Aayushi Roy, Hal Daumé III, and Marine Carpuat. 
  * In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pages 9696–9717, Singapore. Association for Computational Linguistics.
 
-**Which Demographic Features Are Relevant for Individual Fairness Evaluation of U.S. Recidivism Risk Assessment Tools?** Joint work with Tin Nguyen, Phuong-Anh Nguyen-Le, Donald Braman, Jonathan Lazar, Hal Daumé III, and Zubin Jelveh.
+[**Which Demographic Features Are Relevant for Individual Fairness Evaluation of U.S. Recidivism Risk Assessment Tools?**](https://www.arxiv.org/pdf/2505.09868) Joint work with Tin Nguyen, Phuong-Anh Nguyen-Le, Donald Braman, Jonathan Lazar, Hal Daumé III, and Zubin Jelveh.
  * Accepted by the 20th International Conference on Artificial Intelligence and Law (ICAIL 2025).
  * Related law review article: [*How May U.S. Courts Scrutinize Their Recidivism Risk Assessment Tools? Contextualizing AI Fairness Criteria on a Judicial Scrutiny-based Framework*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5242075)
 
