@@ -29,7 +29,7 @@ author_profile: true
 **AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights** Joint work with Gujie Li and Jane Jiang.
  * Presented at Smith DOIT Doctoral Consortium 2025. 
 
-**Effort-aware Fairness: It Matters How AI Decision Subjects Get There!** Joint work with Tin Nguyen, Zora Che, Phuong-Anh Nguyen-Le, Rushil Dandamudi, Donald Braman, Hal Daumé III, Furong Huang, and Zubin Jelveh.
+**Effort-aware Fairness: Theoretical Incorporation and Empirical Validation of a Philosophy-informed Effort Concept in Algorithmic Fairness Metrics** Joint work with Tin Nguyen, Zora Che, Phuong-Anh Nguyen-Le, Rushil Dandamudi, Donald Braman, Hal Daumé III, Furong Huang, and Zubin Jelveh.
  * Accepted by ACM Symposium on Computer Science & Law, 2025 (WIP)
 
 <!-- **Hide and Seek at the German Federal Constitutional Court: Identifying the Justice Referee with Author Topic Model** Joint work with Tin Nguyen, Andrew Mao, Jordan Boyd-Graber, and Christoph Engel. -->
