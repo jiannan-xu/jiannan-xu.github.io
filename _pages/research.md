@@ -15,8 +15,8 @@ author_profile: true
 [**Personalized Assortment Optimization for a Subscription Business Model of Experience Goods**](https://ssrn.com/abstract=5159539) Joint work with Gah-Yi Ban, Wedad J. Elmaghraby, and L. Beril Toktay. *Under Review*
  * Finalist, INFORMS MIF Summer Webinar Competition, 2024.
  * Media Coverage: [Imperial Business Knowledge](https://www.imperial.ac.uk/business-school/ib-knowledge/entrepreneurship-innovation/ai-powered-rental-fashion-smarter-recommendations/) 
- * Scheduled to present at MSOM 2025. 
  * Presented at INFORMS (2024), POMS (2024, 2025), and Purdue Operations Symposium (2023). 
+ * Scheduled to present at MSOM 2025. 
  <!-- * Presented by my coauthors at the Imperial President's PhD Scholars Research Symposium 2024, NYU Stern TOPS Seminar, Umich Ross TO Seminar, European TOM Seminar, NOVA University Lisbon, Durham University, and London Operations Researchers Day.  -->
 
 [**Effort-aware Fairness: Incorporating a Philosophy-informed, Human-centered Notion of Effort into Algorithmic Fairness Metrics**](https://arxiv.org/pdf/2505.19317) Joint work with Tin Nguyen, Zora Che, Phuong-Anh Nguyen-Le, Rushil Dandamudi, Donald Braman, Furong Huang, Hal Daumé III, and Zubin Jelveh. *Under Review*
