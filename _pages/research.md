@@ -26,6 +26,7 @@ author_profile: true
 
 # Selected Works-In-Progress
 **Words Matter! Dynamic Forecasting of Freelance Job Success Using Conversational Analytics** Joint work with Ashish S. Kabra, Kunpeng Zhang, and Wedad J. Elmaghraby.
+ * Supported by the Smith Internal Grant ($10,000). 
  * College-Level Winner, UMD Three-Minute Thesis (3MT) Competition 2025.
  * Presented at Purdue Operations Conference (2024), POMS (2023, 2024), INFORMS (2023), and Smith DOIT Doctoral Consortium (2023, 2024).
 

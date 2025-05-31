@@ -15,6 +15,8 @@ My research centers on the use of artificial intelligence for decision making in
 
 Recent News
 ======
+* May 30. 2025: Our project received a $10,000 Smith Internal Grant!
+
 * Apr 24, 2025: One paper is accepted by ICAIL 2025!
 
 * Mar 6, 2025: Our student chapter hosted the 3rd Smith DOIT Doctoral Consortium!
