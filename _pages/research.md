@@ -20,7 +20,7 @@ author_profile: true
  <!-- * Presented by my coauthors at the Imperial President's PhD Scholars Research Symposium 2024, NYU Stern TOPS Seminar, Umich Ross TO Seminar, European TOM Seminar, NOVA University Lisbon, Durham University, and London Operations Researchers Day.  -->
 
 [**Effort-aware Fairness: Incorporating a Philosophy-informed, Human-centered Notion of Effort into Algorithmic Fairness Metrics**](https://arxiv.org/pdf/2505.19317) Joint work with Tin Nguyen, Zora Che, Phuong-Anh Nguyen-Le, Rushil Dandamudi, Donald Braman, Furong Huang, Hal Daumé III, and Zubin Jelveh. *Under Review*
- * Accepted by ACM Symposium on Computer Science & Law, 2025 (WIP).
+ * Accepted at ACM Symposium on Computer Science & Law, 2025 (WIP).
 
 [**How May U.S. Courts Scrutinize Their Recidivism Risk Assessment Tools? Contextualizing AI Fairness Criteria on a Judicial Scrutiny-based Framework**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5242075) Joint work with Tin Nguyen, Phuong-Anh Nguyen-Le, Donald Braman, Jonathan Lazar, Hal Daumé III, and Zubin Jelveh. *Under Review*
 
@@ -34,6 +34,7 @@ author_profile: true
  * Supported by the Faculty-Student Research Award (FSRA, $15,000) from the Graduate School.
 
 **AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights** Joint work with Gujie Li and Jane Jiang. *Under Review*
+ * Accepted at Markets & Society Conference 2025. 
  * Presented at Smith DOIT Doctoral Consortium 2025, POMS (2025).
 
 
