@@ -20,7 +20,7 @@ author_profile: true
  <!-- * Presented by my coauthors at the Imperial President's PhD Scholars Research Symposium 2024, NYU Stern TOPS Seminar, Umich Ross TO Seminar, European TOM Seminar, NOVA University Lisbon, Durham University, and London Operations Researchers Day.  -->
 
 [**Effort-aware Fairness: Incorporating a Philosophy-informed, Human-centered Notion of Effort into Algorithmic Fairness Metrics**](https://arxiv.org/pdf/2505.19317) Joint work with Tin Nguyen, Zora Che, Phuong-Anh Nguyen-Le, Rushil Dandamudi, Donald Braman, Furong Huang, Hal Daumé III, and Zubin Jelveh. *Under Review*
- * Accepted at ACM Symposium on Computer Science & Law, 2025 (WIP).
+ <!-- * Accepted at ACM Symposium on Computer Science & Law, 2025 (WIP). -->
 
 [**How May U.S. Courts Scrutinize Their Recidivism Risk Assessment Tools? Contextualizing AI Fairness Criteria on a Judicial Scrutiny-based Framework**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5242075) Joint work with Tin Nguyen, Phuong-Anh Nguyen-Le, Donald Braman, Jonathan Lazar, Hal Daumé III, and Zubin Jelveh. *Under Review*
 
@@ -38,7 +38,6 @@ author_profile: true
  * Accepted at 3rd Annual Business & Generative AI Conference (AI@Wharton) 2025. 
  * Accepted at 2025 Markets & Society Conference. 
  * Presented at Smith DOIT Doctoral Consortium 2025, POMS (2025).
-
 
 
 <!-- **Hide and Seek at the German Federal Constitutional Court: Identifying the Justice Referee with Author Topic Model** Joint work with Tin Nguyen, Andrew Mao, Jordan Boyd-Graber, and Christoph Engel. -->
