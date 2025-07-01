@@ -35,6 +35,7 @@ author_profile: true
  * Supported by the Faculty-Student Research Award (FSRA, $15,000) from the Graduate School.
 
 **AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights** Joint work with Gujie Li and Jane Jiang. *Under Review*
+ * Accepted at 3rd Annual Business & Generative AI Conference (AI@Wharton) 2025. 
  * Accepted at 2025 Markets & Society Conference. 
  * Presented at Smith DOIT Doctoral Consortium 2025, POMS (2025).
 
