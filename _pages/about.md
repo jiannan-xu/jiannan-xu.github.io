@@ -16,8 +16,8 @@ My research centers on the use of artificial intelligence for decision making in
 Upcoming Talks
 ======
 * [2025 INFORMS Revenue Management and Pricing Section Conference](https://business.columbia.edu/2025-informs-conference)
-  - **Time:** 4:40 PM – 5:40 PM, July 16th, 2025  
-  - **Location:** David Geffen Hall 440, Columbia Business School
+  - **Time:** 4:40 PM – 5:40 PM, July 16th, 2025.
+  - **Location:** David Geffen Hall 440, Columbia Business School.
 
 Recent News
 ======
