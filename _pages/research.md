@@ -34,8 +34,9 @@ author_profile: true
 **AI-Infused Nudges for Supply Chain Decision Making** Joint work with Jane Jiang and Wedad J. Elmaghraby.
  * Supported by the Faculty-Student Research Award (FSRA, $15,000) from the Graduate School.
 
-**AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights** Joint work with Gujie Li and Jane Jiang. *Under Review*
+**AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights** Joint work with Gujie Li and Jane Jiang. 
  * Accepted at 3rd Annual Business & Generative AI Conference (AI@Wharton) 2025. 
+ * Accepted as an oral talk at ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO'25). 
  * Accepted at 2025 Markets & Society Conference. 
  * Presented at Smith DOIT Doctoral Consortium 2025, POMS (2025).
 
