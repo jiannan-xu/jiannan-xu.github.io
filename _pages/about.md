@@ -56,7 +56,7 @@ My research centers on the use of artificial intelligence for decision making in
 
 * Feb 17. 2023: I organized 1st Smith DOIT Doctoral Consortium.
 
-* Aug 26. 2022: I gave a poster presentation at YinzOR 2022 held by Carnegie Mellon University! --> -->
+* Aug 26. 2022: I gave a poster presentation at YinzOR 2022 held by Carnegie Mellon University! -->
 
 Contact
 ======
