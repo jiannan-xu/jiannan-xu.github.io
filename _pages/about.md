@@ -19,11 +19,11 @@ My research centers on the use of artificial intelligence for decision making in
   - **Time:** 4:40 PM – 5:40 PM, July 16th, 2025.
   - **Location:** David Geffen Hall 440, Columbia Business School. -->
 
-Recent News
+<!-- Recent News
 ======
 <!-- * June 30, 2025: One project is accepted at the 3rd Annual Business & Generative AI Conference (AI@Wharton) 2025.  -->
 
-* May 30, 2025: Our project received a $10,000 Smith Internal Grant!
+<!-- * May 30, 2025: Our project received a $10,000 Smith Internal Grant!
 
 * April 24, 2025: One paper is accepted at ICAIL 2025!
 
@@ -31,13 +31,13 @@ Recent News
 
 * October 16. 2024: Our student chapter received the 2024 INFORMS Student Chapter Annual Award - Cum Laude!
 
-* March 26. 2024: Our project received the Faculty-Student Research Award (FSRA, $15,000) from the Graduate School!
+* March 26. 2024: Our project received the Faculty-Student Research Award (FSRA, $15,000) from the Graduate School! -->
 
 <!-- * Mar 15. 2024: We hosted the 2nd Smith DOIT Doctoral Consortium! -->
 
 <!-- * Oct 16. 2023: Our student chapter received the 2023 INFORMS Student Chapter Annual Award - Honorable Mention! -->
 
-* Oct 7. 2023: One paper is accepted at EMNLP 2023!
+<!-- * Oct 7. 2023: One paper is accepted at EMNLP 2023! -->
 
 <!-- * Oct 16. 2023: I presented my paper at INFORMS 2023, Phenoix, AZ.
 
@@ -56,7 +56,7 @@ Recent News
 
 * Feb 17. 2023: I organized 1st Smith DOIT Doctoral Consortium.
 
-* Aug 26. 2022: I gave a poster presentation at YinzOR 2022 held by Carnegie Mellon University! -->
+* Aug 26. 2022: I gave a poster presentation at YinzOR 2022 held by Carnegie Mellon University! --> -->
 
 Contact
 ======
