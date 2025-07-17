@@ -13,11 +13,11 @@ Research Interests
 ======
 My research centers on the use of artificial intelligence for decision making in operations, with a focus on personalization, prediction, and persuasion. I work at the intersection of marketplace analytics, service operations, and AI for social good---addressing critical issues such as algorithmic fairness, AI copyright infringement, and implicit biases in large language models. Methodologically, I draw on optimization, causal inference, and machine learning---particularly natural language processing---to analyze unstructured data, uncover business insights, and tackle complex operational challenges.
 
-Upcoming Talks
+<!-- Upcoming Talks
 ======
 * [2025 INFORMS Revenue Management and Pricing Section Conference](https://business.columbia.edu/2025-informs-conference)
   - **Time:** 4:40 PM – 5:40 PM, July 16th, 2025.
-  - **Location:** David Geffen Hall 440, Columbia Business School.
+  - **Location:** David Geffen Hall 440, Columbia Business School. -->
 
 Recent News
 ======
