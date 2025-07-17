@@ -6,36 +6,28 @@ author_profile: true
 ---
 
 ## Publications
-
 - **Towards Conceptualization of “Fair Explanation”: Disparate Impacts of Anti-Asian Hate Speech Explanations on Content Moderators**  
-  Joint work with Tin Nguyen, Aayushi Roy, Hal Daumé III, and Marine Carpuat  
-  **EMNLP 2023** – [Paper Link](https://aclanthology.org/2023.emnlp-main.602)  
+  Joint work with Tin Nguyen, Aayushi Roy, Hal Daumé III, and Marine Carpuat **EMNLP 2023** – [Paper Link](https://aclanthology.org/2023.emnlp-main.602)  
   - In *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing*, Singapore
 
 - **Which Demographic Features Are Relevant for Individual Fairness Evaluation of U.S. Recidivism Risk Assessment Tools?**  
-  Joint work with Tin Nguyen, Phuong-Anh Nguyen-Le, Donald Braman, Jonathan Lazar, Hal Daumé III, and Zubin Jelveh  
-  **ICAIL 2025** – [Paper Link](https://www.arxiv.org/pdf/2505.09868)  
+  Joint work with Tin Nguyen, Phuong-Anh Nguyen-Le, Donald Braman, Jonathan Lazar, Hal Daumé III, and Zubin Jelveh **ICAIL 2025** – [Paper Link](https://www.arxiv.org/pdf/2505.09868)  
   - In *Proceedings of the 20th International Conference on Artificial Intelligence and Law*
 
 ## Working Papers
-
 - **Personalized Assortment Optimization for a Subscription Business Model of Experience Goods**  
-  Joint work with Gah-Yi Ban, Wedad J. Elmaghraby, and L. Beril Toktay  
-  [SSRN Link](https://ssrn.com/abstract=5159539) – *Under Review*  
+  Joint work with Gah-Yi Ban, Wedad J. Elmaghraby, and L. Beril Toktay [SSRN Link](https://ssrn.com/abstract=5159539) – *Under Review*  
   - Finalist, INFORMS MIF Summer Webinar Competition 2024  
   - Media Coverage: [Imperial Business Knowledge](https://www.imperial.ac.uk/business-school/ib-knowledge/entrepreneurship-innovation/ai-powered-rental-fashion-smarter-recommendations/)  
   - Presented at MSOM (2025), RMP (2025), INFORMS (2024), POMS (2024, 2025), and Purdue Operations Symposium (2023)
 
 - **Effort-Aware Fairness: Incorporating a Philosophy-Informed, Human-Centered Notion of Effort into Algorithmic Fairness Metrics**  
-  Joint work with Tin Nguyen, Zora Che, Phuong-Anh Nguyen-Le, Rushil Dandamudi, Donald Braman, Furong Huang, Hal Daumé III, and Zubin Jelveh  
-  [arXiv Link](https://arxiv.org/pdf/2505.19317) – *Under Review*
+  Joint work with Tin Nguyen, Zora Che, Phuong-Anh Nguyen-Le, Rushil Dandamudi, Donald Braman, Furong Huang, Hal Daumé III, and Zubin Jelve [arXiv Link](https://arxiv.org/pdf/2505.19317) – *Under Review*
 
 - **How May U.S. Courts Scrutinize Their Recidivism Risk Assessment Tools? Contextualizing AI Fairness Criteria on a Judicial Scrutiny-Based Framework**  
-  Joint work with Tin Nguyen, Phuong-Anh Nguyen-Le, Donald Braman, Jonathan Lazar, Hal Daumé III, and Zubin Jelveh  
-  [arXiv Link](https://arxiv.org/abs/2505.02749) – *Under Review*
+  Joint work with Tin Nguyen, Phuong-Anh Nguyen-Le, Donald Braman, Jonathan Lazar, Hal Daumé III, and Zubin Jelveh [arXiv Link](https://arxiv.org/abs/2505.02749) – *Under Review*
 
 ## Selected Works-In-Progress
-
 - **Words Matter! Dynamic Forecasting of Freelance Job Success Using Conversational Analytics**  
   Joint work with Ashish S. Kabra, Kunpeng Zhang, and Wedad J. Elmaghraby  
   - Supported by OpenAI Researcher Access Program ($1,000)  
