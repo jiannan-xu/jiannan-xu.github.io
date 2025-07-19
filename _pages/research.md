@@ -38,7 +38,7 @@ author_profile: true
 
 - **AI-Infused Nudges for Supply Chain Decision Making**  
   with Jane Jiang and Wedad J. Elmaghraby.
-  - Supported by Faculty–Student Research Award (FSRA, $15,000) from the Graduate School
+  - Supported by Faculty–Student Research Award ($15,000) from the Graduate School
 
 - **AI Self-Preferencing in Algorithmic Hiring: Empirical Evidence and Insights**  
   with Gujie Li and Jane Jiang.
