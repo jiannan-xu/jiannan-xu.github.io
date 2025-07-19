@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications
 - **Towards Conceptualization of “Fair Explanation”: Disparate Impacts of Anti-Asian Hate Speech Explanations on Content Moderators**  
-  with Tin Nguyen, Aayushi Roy, Hal Daumé III, and Marine Carpuat. **EMNLP 2023** – [Paper Link](https://aclanthology.org/2023.emnlp-main.602)  
+  with Tin Nguyen, Aayushi Roy, Hal Daumé III, and Marine Carpuat. **EMNLP 2023** – [Paper Link](https://aclanthology.org/2023.emnlp-main.602.pdf)  
   - In *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing*, Singapore
 
 - **Which Demographic Features Are Relevant for Individual Fairness Evaluation of U.S. Recidivism Risk Assessment Tools?**  
