@@ -16,7 +16,7 @@ author_profile: true
 
 - **Effort-Aware Fairness: Incorporating a Philosophy-Informed, Human-Centered Notion of Effort into Algorithmic Fairness Metrics**  
   with Tin Nguyen, Zora Che, Phuong-Anh Nguyen-Le, Rushil Dandamudi, Donald Braman, Furong Huang, Hal Daumé III, and Zubin Jelveh. **AIES 2025** – [Paper Link](https://arxiv.org/pdf/2505.19317) 
-  - In *Proceedings of the Eighth AAAI/ACM Conference on AI, Ethics, and Society 2025* (Forthcoming)
+  - In *Proceedings of the 8th AAAI/ACM Conference on AI, Ethics, and Society 2025* (Forthcoming)
 
 
 ## Working Papers
