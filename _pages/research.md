@@ -8,7 +8,7 @@ author_profile: true
 ## Publications
 - **Towards Conceptualization of “Fair Explanation”: Disparate Impacts of Anti-Asian Hate Speech Explanations on Content Moderators**  
   with Tin Nguyen, Aayushi Roy, Hal Daumé III, and Marine Carpuat. **EMNLP 2023** – [Paper Link](https://aclanthology.org/2023.emnlp-main.602.pdf)  
-  - In *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing*, Singapore
+  - In *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing*
 
 - **Which Demographic Features Are Relevant for Individual Fairness Evaluation of U.S. Recidivism Risk Assessment Tools?**  
   with Tin Nguyen, Phuong-Anh Nguyen-Le, Donald Braman, Jonathan Lazar, Hal Daumé III, and Zubin Jelveh. **ICAIL 2025** – [Paper Link](https://www.arxiv.org/pdf/2505.09868)  
@@ -16,7 +16,7 @@ author_profile: true
 
 - **Effort-Aware Fairness: Incorporating a Philosophy-Informed, Human-Centered Notion of Effort into Algorithmic Fairness Metrics**  
   with Tin Nguyen, Zora Che, Phuong-Anh Nguyen-Le, Rushil Dandamudi, Donald Braman, Furong Huang, Hal Daumé III, and Zubin Jelveh. **AIES 2025** – [Paper Link](https://arxiv.org/pdf/2505.19317) 
-  - In *Proceedings of the 8th AAAI/ACM Conference on AI, Ethics, and Society 2025* (Forthcoming)
+  - In *Proceedings of the 8th AAAI/ACM Conference on AI, Ethics, and Society* (Forthcoming)
 
 
 ## Working Papers
