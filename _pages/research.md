@@ -23,7 +23,7 @@ author_profile: true
   with Gah-Yi Ban, Wedad J. Elmaghraby, and L. Beril Toktay. *Under Review at **Management Science*** – [SSRN Link](https://ssrn.com/abstract=5159539) 
   - Finalist, INFORMS MIF Summer Webinar Competition 2024  
   - Media Coverage: [Imperial Business Knowledge](https://www.imperial.ac.uk/business-school/ib-knowledge/entrepreneurship-innovation/ai-powered-rental-fashion-smarter-recommendations/)  
-  - Presented at MSOM (2025), RMP (2025), INFORMS (2024), POMS (2024, 2025), and Purdue Operations Symposium (2023)
+  - Presented at MSOM 2025, RMP 2025, INFORMS 2024, POMS (2024, 2025), and Purdue Operations Symposium 2023
 
 - **How May U.S. Courts Scrutinize Their Recidivism Risk Assessment Tools? Contextualizing AI Fairness Criteria on a Judicial Scrutiny-Based Framework**  
   with Tin Nguyen, Phuong-Anh Nguyen-Le, Donald Braman, Jonathan Lazar, Hal Daumé III, and Zubin Jelveh. [arXiv Link](https://arxiv.org/abs/2505.02749)
@@ -46,7 +46,7 @@ author_profile: true
   - Accepted as an oral talk at EAAMO'25 – ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization 2025 (Acceptance rate: 32/126 = 25.4%)
   - Accepted at 2025 Markets & Society Conference  
   - Finalist, INFORMS MIF Summer Webinar Competition 2025
-  - Supported by Institute for Humane Studies (IHS) Research Grant ($1,500). 
+  - Supported by Institute for Humane Studies (IHS) Research Grant ($1,500)
 
  <!-- * Presented at Smith DOIT Doctoral Consortium 2025, POMS (2025). -->
 
