@@ -46,7 +46,7 @@ author_profile: true
   - Accepted as an oral talk at EAAMO'25 – ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization 2025 (Acceptance rate: 32/126 = 25.4%)
   - Accepted at 2025 Markets & Society Conference  
   - Finalist, INFORMS MIF Summer Webinar Competition 2025
-  - Supported by Institute for Humane Studies (IHS) Research Grant ($1,500)
+  <!-- - Supported by Institute for Humane Studies (IHS) Research Grant ($1,500) -->
 
  <!-- * Presented at Smith DOIT Doctoral Consortium 2025, POMS (2025). -->
 
