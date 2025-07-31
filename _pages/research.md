@@ -26,7 +26,7 @@ author_profile: true
   - Presented at MSOM 2025, RMP 2025, INFORMS 2024, POMS (2024, 2025), and Purdue Operations Symposium 2023
 
 - **How May U.S. Courts Scrutinize Their Recidivism Risk Assessment Tools? Contextualizing AI Fairness Criteria on a Judicial Scrutiny-Based Framework**  
-  with Tin Nguyen, Phuong-Anh Nguyen-Le, Donald Braman, Jonathan Lazar, Hal Daumé III, and Zubin Jelveh. [arXiv Link](https://arxiv.org/abs/2505.02749)
+  with Tin Nguyen, Phuong-Anh Nguyen-Le, Donald Braman, Jonathan Lazar, Hal Daumé III, and Zubin Jelveh. [arXiv Link](https://arxiv.org/pdf/2505.02749)
 
 # Selected Works-In-Progress
 - **Words Matter! Dynamic Forecasting of Freelance Job Success Using Conversational Analytics**  
