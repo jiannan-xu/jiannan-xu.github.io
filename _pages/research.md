@@ -43,7 +43,7 @@ author_profile: true
 - **AI Self-Preferencing in Algorithmic Hiring: Empirical Evidence and Insights**  
   with Gujie Li and Jane Yi Jiang.
   - Accepted at 3rd Annual Business & Generative AI Conference (AI@Wharton) 2025
-  - Accepted at AIES 2025 – AAAI/ACM Conference on AI, Ethics, and Society 2025 (Acceptance rate: 239/748 = 32.0\%)
+  - Accepted at AIES 2025 – AAAI/ACM Conference on AI, Ethics, and Society 2025 (Acceptance rate: 239/748 = 32.0%)
   - Accepted as an oral talk at EAAMO'25 – ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization 2025 (Acceptance rate: 32/126 = 25.4%)
   - Accepted at 2025 Markets & Society Conference  
   - Finalist, INFORMS MIF Summer Webinar Competition 2025
