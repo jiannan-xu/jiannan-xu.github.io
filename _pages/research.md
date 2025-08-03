@@ -32,12 +32,12 @@ author_profile: true
 # Selected Works-In-Progress
 - **Words Matter! Dynamic Forecasting of Freelance Job Success Using Conversational Analytics**  
   with Ashish S. Kabra, Kunpeng Zhang, and Wedad J. Elmaghraby.
-  - Supported by OpenAI Researcher Access Program ($1,000) and Smith Internal Grant ($10,000)  
+  - Supported by OpenAI Researcher Access Program (\$1,000) and Smith Internal Grant (\$10,000)  
   - College-level winner, UMD Three-Minute Thesis (3MT) Competition 2025
 
 - **AI-Infused Nudges for Supply Chain Decision Making**  
   with Jane Yi Jiang and Wedad J. Elmaghraby.
-  - Supported by Faculty–Student Research Award ($15,000) from the Graduate School
+  - Supported by Faculty–Student Research Award (\$15,000) from the Graduate School
 
 - **AI Self-Preferencing in Algorithmic Hiring: Empirical Evidence and Insights**  
   with Gujie Li and Jane Yi Jiang.
@@ -46,7 +46,7 @@ author_profile: true
   - Accepted as an oral talk at EAAMO'25 – ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization 2025 (Acceptance rate: 32/126 = 25.4%)
   - Accepted at 2025 Markets & Society Conference  
   - Finalist, INFORMS MIF Summer Webinar Competition 2025
-  - Supported by Institute for Humane Studies (IHS) Research Grant ($1,500)
+  - Supported by Institute for Humane Studies (IHS) Research Grant (\$1,500)
 
  <!-- * Presented at Smith DOIT Doctoral Consortium 2025, POMS (2025). -->
 
