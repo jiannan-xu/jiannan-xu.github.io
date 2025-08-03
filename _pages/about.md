@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a fourth-year Ph.D. Candidate in Operations Management at the Robert H. Smith School of Business, University of Maryland, affiliated with the Institute for Trustworthy AI in Law & Society ([TRAILS](https://www.trails.umd.edu)) and the Language Science Center ([LSC](https://languagescience.umd.edu)). I am very fortunate to be advised by Professor [Wedad J. Elmaghraby](https://www.rhsmith.umd.edu/directory/wedad-j-elmaghraby). I received my Bachelor’s degree in Financial Management and Mathematical Statistics from Xiamen University and a Master’s degree in Applied Statistics from the University of Michigan-Ann Arbor. 
+
+I am a fourth-year Ph.D. candidate in Operations Management at the Robert H. Smith School of Business, University of Maryland. I am affiliated with the Institute for Trustworthy AI in Law & Society ([TRAILS](https://www.trails.umd.edu)) and the Language Science Center ([LSC](https://languagescience.umd.edu)). I am fortunate to be advised by Professor [Wedad J. Elmaghraby](https://www.rhsmith.umd.edu/directory/wedad-j-elmaghraby). Prior to my doctoral studies, I earned a dual Bachelor’s degree in Financial Management and Mathematical Statistics from Xiamen University, and a Master’s degree in Applied Statistics from the University of Michigan–Ann Arbor.
 
 Research Interests
 ======
