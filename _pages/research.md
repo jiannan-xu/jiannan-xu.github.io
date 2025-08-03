@@ -32,7 +32,8 @@ author_profile: true
 # Selected Works-In-Progress
 - **Words Matter! Dynamic Forecasting of Freelance Job Success Using Conversational Analytics**  
   with Ashish S. Kabra, Kunpeng Zhang, and Wedad J. Elmaghraby.
-  - Supported by OpenAI Researcher Access Program (\$1,000) and Smith Internal Grant (\$10,000)  
+  - Supported by OpenAI Researcher Access Program (\$1,000)
+  - Supported by Smith Internal Grant (\$10,000)  
   - College-level winner, UMD Three-Minute Thesis (3MT) Competition 2025
 
 - **AI-Infused Nudges for Supply Chain Decision Making**  
