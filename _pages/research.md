@@ -30,7 +30,7 @@ author_profile: true
   with Tin Nguyen, Phuong-Anh Nguyen-Le, Donald Braman, Jonathan Lazar, Hal Daumé III, and Zubin Jelveh. [arXiv Link](https://arxiv.org/pdf/2505.02749)
 
 # Selected Works-In-Progress
-- **Words Matter! Dynamic Forecasting of Freelance Job Success Using Conversational Analytics**  
+- **What You Say or How You Say It? Predicting Freelance Job Success with Large Language Models**  
   with Ashish S. Kabra, Kunpeng Zhang, and Wedad J. Elmaghraby.
   - Supported by OpenAI Researcher Access Program (\$1,000)
   - Supported by Smith Internal Grant (\$10,000)  
