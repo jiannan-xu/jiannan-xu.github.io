@@ -21,7 +21,7 @@ author_profile: true
 
 # Working Papers
 - **Personalized Assortment Optimization for a Subscription Business Model of Experience Goods**  
-  with Gah-Yi Ban, Wedad J. Elmaghraby, and L. Beril Toktay. *Under Review at **Management Science*** – [SSRN Link](https://ssrn.com/abstract=5159539) 
+  with Gah-Yi Ban, Wedad J. Elmaghraby, and L. Beril Toktay. *Reject and Resubmit at **Management Science*** – [SSRN Link](https://ssrn.com/abstract=5159539) 
   - Media Coverage: [Imperial Business Knowledge](https://www.imperial.ac.uk/business-school/ib-knowledge/entrepreneurship-innovation/ai-powered-rental-fashion-smarter-recommendations/)  
   - Finalist, INFORMS MIF Summer Webinar Competition 2024  
   - Presented at MSOM 2025, RMP 2025, Stitch Fix Algo Hours 2025, INFORMS 2024, POMS (2024, 2025), and Purdue Operations Conference 2023
