@@ -47,18 +47,18 @@ author_profile: true
   - Finalist, INFORMS MIF Summer Webinar Competition 2025
   - Supported by Institute for Humane Studies (IHS) Research Grant (\$1,500)
 
- <!-- * Presented at Smith DOIT Doctoral Consortium 2025, POMS (2025). -->
-  <!-- - Accepted at 3rd Annual Business & Generative AI Conference (AI@Wharton) 2025 -->
-  <!-- - Accepted at the Inaugural Fisher AI in Business Conference at The Ohio State University -->
-  <!-- - Accepted at AIES 2025 – AAAI/ACM Conference on AI, Ethics, and Society 2025 (Acceptance rate: 239/748 = 32.0%)-->
-  <!-- - Accepted as an oral talk at EAAMO'25 – ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization 2025 (Acceptance rate: 32/126 = 25.4%)-->
-  <!-- - Accepted at 2025 Markets & Society Conference   -->
+
+
+
+<!-- * Presented at Smith DOIT Doctoral Consortium 2025, POMS (2025). -->
+<!-- Accepted at 3rd Annual Business & Generative AI Conference (AI@Wharton) 2025 -->
+<!-- Accepted at the Inaugural Fisher AI in Business Conference at The Ohio State University -->
+<!-- Accepted at AIES 2025 – AAAI/ACM Conference on AI, Ethics, and Society 2025 (Acceptance rate: 239/748 = 32.0%)-->
+<!-- Accepted as an oral talk at EAAMO'25 – ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization 2025 (Acceptance rate: 32/126 = 25.4%)-->
+<!-- Accepted at 2025 Markets & Society Conference   -->
 
 <!-- **Hide and Seek at the German Federal Constitutional Court: Identifying the Justice Referee with Author Topic Model** Joint work with Tin Nguyen, Andrew Mao, Jordan Boyd-Graber, and Christoph Engel. -->
 <!-- 
 **Bipartite Networked Multi-agent Reinforcement Learning for Decentralized Matching Markets** Joint work with Yan Xu.
  * Accepted by Yale 2024 Conference on AI/ML/BA.
  * Presented at POMS Conference 2024, Minneapolis, MN. -->
-
-
-
