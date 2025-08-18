@@ -17,7 +17,7 @@ My research centers on the use of artificial intelligence for decision making in
 
 Upcoming Talks
 ======
-* [3rd Annual Business & Generative AI Conference (AI@Wharton)](https://ai.wharton.upenn.edu/business-generative-ai-conference-2025/)
+* [3rd Annual Business & Generative AI Conference (AI@Wharton)](https://ai.wharton.upenn.edu/business-generative-ai-conference-2025/agenda/)
   - **Title:** AI Self-Preferencing in Algorithmic Hiring: Empirical Evidence and Insights
   - **Time:** 11:20 AM – 12:20 PM, Friday, September 5th, 2025
   - **Location:** Room 612, Wharton San Francisco Campus
