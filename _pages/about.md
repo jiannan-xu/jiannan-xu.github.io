@@ -8,18 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. candidate in Operations Management at the Robert H. Smith School of Business, University of Maryland, affiliated with the [Institute for Trustworthy AI in Law & Society](https://www.trails.umd.edu) and the [Language Science Center](https://languagescience.umd.edu). 
+I am a fifth-year Ph.D. candidate in Operations Management at the Robert H. Smith School of Business, University of Maryland, affiliated with the [Institute for Trustworthy AI in Law & Society](https://www.trails.umd.edu) and the [Language Science Center](https://languagescience.umd.edu). 
 I am fortunate to be advised by Professor [Wedad J. Elmaghraby](https://www.rhsmith.umd.edu/directory/wedad-j-elmaghraby). Prior to my doctoral studies, I earned a Master's degree in Applied Statistics from the University of Michigan–Ann Arbor and a dual Bachelor's degree in Financial Management and Mathematical Statistics from Xiamen University.
 
 Research Interests
 ======
 My research centers on the use of artificial intelligence for decision making in operations, with a focus on personalization, prediction, and persuasion. I work at the intersection of marketplace analytics, service operations, and AI for social good---addressing critical issues such as algorithmic fairness, AI copyright infringement, and implicit biases in large language models. Methodologically, I draw on optimization, causal inference, and machine learning---particularly natural language processing---to analyze unstructured data, uncover business insights, and tackle complex operational challenges.
 
-<!-- Upcoming Talks
+Upcoming Talks
 ======
-* [2025 INFORMS Revenue Management and Pricing Section Conference](https://business.columbia.edu/2025-informs-conference)
-  - **Time:** 4:40 PM – 5:40 PM, July 16th, 2025.
-  - **Location:** David Geffen Hall 440, Columbia Business School. -->
+* [3rd Annual Business & Generative AI Conference (AI@Wharton)](https://ai.wharton.upenn.edu/business-generative-ai-conference-2025/)
+  - **Title:** AI Self-Preferencing in Algorithmic Hiring: Empirical Evidence and Insights
+  - **Time:** 11:20 AM – 12:20 PM, Friday, September 5th, 2025
+  - **Location:** Room 612, Wharton San Francisco Campus
 
 <!-- Recent News
 ======
