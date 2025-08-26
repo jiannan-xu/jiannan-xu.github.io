@@ -23,7 +23,6 @@ author_profile: true
 - **Personalized Assortment Optimization for a Subscription Business Model of Experience Goods**  
   with Gah-Yi Ban, Wedad J. Elmaghraby, and L. Beril Toktay. ***Reject and Resubmit at Management Science*** – [SSRN Link](https://ssrn.com/abstract=5159539) 
   - Media Coverage: [Imperial Business Knowledge](https://www.imperial.ac.uk/business-school/ib-knowledge/entrepreneurship-innovation/ai-powered-rental-fashion-smarter-recommendations/)  
-  - Finalist, INFORMS MIF Summer Webinar Competition 2024  
   - Presented at MSOM 2025, RMP 2025, Stitch Fix Algo Hours 2025, INFORMS 2024, POMS (2024, 2025), and Purdue Operations Conference 2023
 
 - **How May U.S. Courts Scrutinize Their Recidivism Risk Assessment Tools? Contextualizing AI Fairness Criteria on a Judicial Scrutiny-Based Framework**  
@@ -42,8 +41,8 @@ author_profile: true
 
 - **AI Self-Preferencing in Algorithmic Hiring: Empirical Evidence and Insights**  
   with Gujie Li and Jane Yi Jiang.
+  - Finalist, INFORMS MIF Summer Webinar Competition 2025 (Winner TBA)
   - Accepted at Business Conferences: 3rd Annual Business & Generative AI Conference (AI@Wharton 2025), Inaugural Fisher AI in Business Conference at The Ohio State University, 2025 Markets & Society Conference, Conference on Information Systems and Technology (CIST) 2025, INFORMS Workshop on Data Science 2025
   - Accepted at Computer Science Conferences: AIES 2025 – AAAI/ACM Conference on AI, Ethics, and Society 2025 (Acceptance rate: 239/748 = 32.0%), EAAMO'25 – ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization 2025 (Acceptance rate: 32/126 = 25.4%)
-  - Finalist, INFORMS MIF Summer Webinar Competition 2025
   - Supported by Institute for Humane Studies (IHS) Research Grant (\$1,500)
 
