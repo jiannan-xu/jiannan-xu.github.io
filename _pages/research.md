@@ -25,7 +25,7 @@ author_profile: true
   - Presented at MSOM 2025, RMP 2025, Stitch Fix Algo Hours 2025, INFORMS 2024, POMS (2024, 2025), and Purdue Operations Conference 2023
 
 - **AI Self-Preferencing in Algorithmic Hiring: Empirical Evidence and Insights**  
-  with Gujie Li and Jane Yi Jiang. [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5417394)
+  with Gujie Li and Jane Yi Jiang. [SSRN Link](ssrn.com/abstract=5417394)
   - Finalist, INFORMS MIF Summer Webinar Competition 2025 (Winner TBA)
   - Accepted at Business Conferences: 3rd Annual Business & Generative AI Conference (AI@Wharton 2025), Inaugural Fisher AI in Business Conference at The Ohio State University, 2025 Markets & Society Conference, Conference on Information Systems and Technology (CIST) 2025, INFORMS Workshop on Data Science 2025
   - Accepted at Computer Science Conferences: AIES 2025 – AAAI/ACM Conference on AI, Ethics, and Society 2025 (Acceptance rate: 239/748 = 32.0%), EAAMO'25 – ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization 2025 (Acceptance rate: 32/126 = 25.4%)
