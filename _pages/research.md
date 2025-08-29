@@ -46,5 +46,5 @@ author_profile: true
   - Supported by Faculty–Student Research Award (\$15,000) from the Graduate School
 
 - **AI Copyright Infringement: Customers, Creators, and Data Platforms**
-  with Jane Yi Jiang and Jiding Zhang
+  with Jane Yi Jiang and Jiding Zhang.
 
