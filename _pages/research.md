@@ -47,4 +47,3 @@ author_profile: true
 
 - **AI Copyright Infringement: Customers, Creators, and Data Platforms**
   with Jane Yi Jiang and Jiding Zhang.
-
