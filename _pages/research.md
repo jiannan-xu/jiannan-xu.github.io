@@ -18,7 +18,6 @@ author_profile: true
   with Tin Nguyen, Phuong-Anh Nguyen-Le, Donald Braman, Jonathan Lazar, Hal Daumé III, and Zubin Jelveh. **ICAIL 2025** – [Paper Link](https://www.arxiv.org/pdf/2505.09868)  
   - In *Proceedings of the 20th International Conference on Artificial Intelligence and Law* (Forthcoming)
 
-
 # Working Papers
 - **Personalized Assortment Optimization for a Subscription Business Model of Experience Goods**  
   with Gah-Yi Ban, Wedad J. Elmaghraby, and L. Beril Toktay. ***Reject and Resubmit at Management Science*** – [SSRN Link](https://ssrn.com/abstract=5159539) 

@@ -66,4 +66,4 @@ Contact
 ======
 Email: [jiannan@umd.edu](mailto:jiannan@umd.edu)
 
-CV: Please [click here](https://www.dropbox.com/scl/fi/ql3qopp1xn00zruiybn5d/Jiannan_CV_25-08.pdf?rlkey=d3axuwu44vtycuhzwshb7hqan&st=ywny1u0p&dl=0) for a current version of my CV.
+CV: Please [click here](https://www.dropbox.com/scl/fi/mnem9x1qs3t7wuz84oy50/Jiannan_CV_08-25.pdf?rlkey=9vbaonbtrj1jnsuzcmp1b7jny&st=ulzeh1rc&dl=0) for a current version of my CV.
