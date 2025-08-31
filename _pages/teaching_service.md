@@ -16,8 +16,8 @@ Service
 ======
 
 * Graduate Student Government Representative, University of Maryland.
-* President, INFORMS University of Maryland Student Chapter.
-* Main Ogranizer, [Virtual Operations Management Research Lunch](https://sites.google.com/umd.edu/vomrl/home)
+* President, [INFORMS University of Maryland Student Chapter](https://www.rhsmith.umd.edu/academics-and-students/INFORMS_studentchapter).
+* Main Ogranizer, [Virtual Operations Management Research Lunch](https://sites.google.com/umd.edu/vomrl/home).
 * Referee: EMNLP 2023, ICLR 2024 Tiny Papers, NAACL Student Research Workshop 2024, INFORMS Data Science Workshop (2024, 2025), COLM 2025, ACM EAAMO 2025, ACM/AAAI AIES 2025, WITS 2025, AAAI Special Track on AI for Social Impact (AISI) 2026.
 * Session Chair: POMS (2024, 2025), MSOM 2025.
 
