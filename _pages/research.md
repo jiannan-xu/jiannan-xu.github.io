@@ -11,7 +11,7 @@ author_profile: true
   - In *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing*
 
 - **Effort-Aware Fairness: Incorporating a Philosophy-Informed, Human-Centered Notion of Effort into Algorithmic Fairness Metrics**  
-  with Tin Nguyen, Zora Che, Phuong-Anh Nguyen-Le, Rushil Dandamudi, Donald Braman, Furong Huang, Hal Daumé III, and Zubin Jelveh. **AIES 2025** – [Paper Link](https://www.arxiv.org/pdf/2505.19317) 
+  with Tin Nguyen, Zora Che, Phuong-Anh Nguyen-Le, Rushil Dandamudi, Donald Braman, Furong Huang, Hal Daumé III, and Zubin Jelveh. **AAAI/ACM AIES 2025** – [Paper Link](https://www.arxiv.org/pdf/2505.19317) 
   - In *Proceedings of the 8th AAAI/ACM Conference on AI, Ethics, and Society* (Forthcoming)
 
 - **Which Demographic Features Are Relevant for Individual Fairness Evaluation of U.S. Recidivism Risk Assessment Tools?**  
@@ -30,7 +30,7 @@ author_profile: true
   - Finalist, Best Student Paper Presentation Award at Fisher AI in Business Conference (Winner TBA)
   - Finalist, INFORMS MIF Summer Webinar Competition 2025 (Winner TBA)
   - Accepted at Business Conferences: 3rd Annual Business & Generative AI Conference (AI@Wharton 2025), Inaugural Fisher AI in Business Conference, 2025 Markets & Society Conference, CIST 2025, INFORMS Workshop on Data Science 2025
-  - Accepted at Computer Science Conferences: AIES 2025 (Oral presentation; Acceptance rate: 239/748 = 32.0%), EAAMO'25 (Oral presentation; Acceptance rate: 32/126 = 25.4%)
+  - Accepted at Computer Science Conferences: AAAI/ACM AIES 2025 (Oral presentation; Acceptance rate: 6% of 748 submissions), EAAMO'25 (Oral presentation; Acceptance rate: 25.4% of 126 submissions)
   - Supported by Institute for Humane Studies (IHS) Research Grant (\$1,500)
 
 - **How May U.S. Courts Scrutinize Their Recidivism Risk Assessment Tools? Contextualizing AI Fairness Criteria on a Judicial Scrutiny-Based Framework**  
