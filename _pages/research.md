@@ -30,7 +30,7 @@ author_profile: true
   - Finalist, Best Student Paper Presentation Award at Fisher AI in Business Conference (Winner TBA)
   - Finalist, INFORMS MIF Summer Webinar Competition 2025 (Winner TBA)
   - Accepted at Business Conferences: 3rd Annual Business & Generative AI Conference (AI@Wharton 2025), Inaugural Fisher AI in Business Conference, 2025 Markets & Society Conference, CIST 2025, INFORMS Workshop on Data Science 2025
-  - Accepted at Computer Science Conferences: AAAI/ACM AIES 2025 (Oral presentation; Acceptance rate: 6% of 748 submissions), EAAMO'25 (Oral presentation; Acceptance rate: 25.4% of 126 submissions)
+  - Accepted at Computer Science Conferences: AAAI/ACM AIES 2025 (Oral presentation; 6% of 748 submissions), EAAMO'25 (Oral presentation; 25.4% of 126 submissions)
   - Supported by Institute for Humane Studies (IHS) Research Grant (\$1,500)
 
 - **How May U.S. Courts Scrutinize Their Recidivism Risk Assessment Tools? Contextualizing AI Fairness Criteria on a Judicial Scrutiny-Based Framework**  
