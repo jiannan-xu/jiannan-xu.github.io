@@ -15,13 +15,13 @@ Research Interests
 ======
 My research centers on the use of artificial intelligence for decision making in operations, with a focus on personalization, prediction, and persuasion. I work at the intersection of marketplace analytics, service operations, and AI for social good---addressing critical issues such as algorithmic fairness, AI copyright infringement, and implicit biases in large language models. Methodologically, I draw on optimization, causal inference, and machine learning---particularly natural language processing---to analyze unstructured data, uncover business insights, and tackle complex operational challenges.
 
-<!-- Upcoming Talks
+Upcoming Talks
 ======
-* [3rd Annual Business & Generative AI Conference (AI@Wharton)](https://ai.wharton.upenn.edu/business-generative-ai-conference-2025/agenda/)
+* [Fisher AI in Business Conference](https://fisher.osu.edu/events/ai-in-business)
   - **Title:** AI Self-Preferencing in Algorithmic Hiring: Empirical Evidence and Insights
-  - **Session:** 6-A (Recruitment and Hiring)
-  - **Time:** 11:20 AM – 12:20 PM, Friday, September 5th, 2025 
-  - **Location:** Room 612, Wharton San Francisco Campus -->
+  - **Session:** Best Presentation Competition – Doctoral Students
+  - **Time:** 1 PM – 2:40 PM, Thursday, October 2nd 2025
+  - **Location:** Pfahl Conference Center Room 140 
 
 <!-- Recent News
 ======
