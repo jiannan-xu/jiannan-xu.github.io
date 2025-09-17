@@ -21,7 +21,7 @@ Upcoming Talks
   - **Title:** AI Self-Preferencing in Algorithmic Hiring: Empirical Evidence and Insights
   - **Session:** Best Presentation Competition – Doctoral Students
   - **Time:** 1 PM – 2:40 PM, Thursday, October 2nd 2025
-  - **Location:** Pfahl Conference Center Room 140 
+  - **Location:** Pfahl Hall 140 
 
 <!-- Recent News
 ======
