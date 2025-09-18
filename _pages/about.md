@@ -21,7 +21,7 @@ Upcoming Talks
   - **Title:** AI Self-Preferencing in Algorithmic Hiring: Empirical Evidence and Insights
   - **Session:** Best Presentation Competition – Doctoral Students
   - **Time:** 1 PM – 2:40 PM, Thursday, October 2nd 2025
-  - **Location:** Pfahl Hall 140 
+  - **Location:** Pfahl Hall 140, The Ohio State University
 
 <!-- Recent News
 ======
@@ -66,4 +66,4 @@ Contact
 ======
 Email: [jiannan@umd.edu](mailto:jiannan@umd.edu)
 
-CV: Please [click here](https://www.dropbox.com/scl/fi/mnem9x1qs3t7wuz84oy50/Jiannan_CV_08_25.pdf?rlkey=9vbaonbtrj1jnsuzcmp1b7jny&st=rz4er1bd&dl=0) for a current version of my CV.
+CV: Please [click here](https://www.dropbox.com/scl/fi/c8ctk1kvmpxkhz70j65hg/Jiannan_CV_9_25.pdf?rlkey=fx9hwdmok18qz88lrsnnieb5f&st=f0d71hf2&dl=0) for a current version of my CV.
