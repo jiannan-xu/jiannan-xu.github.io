@@ -7,15 +7,15 @@ author_profile: true
 
 # Publications
 - **Towards Conceptualization of “Fair Explanation”: Disparate Impacts of Anti-Asian Hate Speech Explanations on Content Moderators**  
-  with Tin Nguyen, Aayushi Roy, Hal Daumé III, and Marine Carpuat. **EMNLP 2023** – [Paper](https://aclanthology.org/2023.emnlp-main.602.pdf)|[Code](https://aclanthology.org/2023.emnlp-main.602.pdf}{Paper}][\href{https://github.com/jiannan-xu/EMNLP23_Fair_Explanation)
+  with Tin Nguyen, Aayushi Roy, Hal Daumé III, and Marine Carpuat. **EMNLP 2023** – [[Paper]](https://aclanthology.org/2023.emnlp-main.602.pdf) [[Code]](https://aclanthology.org/2023.emnlp-main.602.pdf}{Paper}][\href{https://github.com/jiannan-xu/EMNLP23_Fair_Explanation)
   - In *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing*
 
 - **Effort-Aware Fairness: Incorporating a Philosophy-Informed, Human-Centered Notion of Effort into Algorithmic Fairness Metrics**  
-  with Tin Nguyen, Zora Che, Phuong-Anh Nguyen-Le, Rushil Dandamudi, Donald Braman, Furong Huang, Hal Daumé III, and Zubin Jelveh. **AAAI/ACM AIES 2025** – [Paper](https://www.arxiv.org/pdf/2505.19317)|[Code](https://drive.google.com/drive/folders/1RsSE1dUHDkn41iKCkIhY5QRdAVKVcrtB?usp=sharing)
+  with Tin Nguyen, Zora Che, Phuong-Anh Nguyen-Le, Rushil Dandamudi, Donald Braman, Furong Huang, Hal Daumé III, and Zubin Jelveh. **AAAI/ACM AIES 2025** – [[Paper]](https://www.arxiv.org/pdf/2505.19317) [[Code]](https://drive.google.com/drive/folders/1RsSE1dUHDkn41iKCkIhY5QRdAVKVcrtB?usp=sharing)
   - In *Proceedings of the 8th AAAI/ACM Conference on AI, Ethics, and Society* (Forthcoming)
 
 - **Which Demographic Features Are Relevant for Individual Fairness Evaluation of U.S. Recidivism Risk Assessment Tools?**  
-  with Tin Nguyen, Phuong-Anh Nguyen-Le, Donald Braman, Jonathan Lazar, Hal Daumé III, and Zubin Jelveh. **ICAIL 2025** – [Paper](https://www.arxiv.org/pdf/2505.09868)|[Code](https://drive.google.com/drive/folders/1OHyRIQ21ECEZwD2i1xE_7Ahzhqt9w1IO)
+  with Tin Nguyen, Phuong-Anh Nguyen-Le, Donald Braman, Jonathan Lazar, Hal Daumé III, and Zubin Jelveh. **ICAIL 2025** – [[Paper]](https://www.arxiv.org/pdf/2505.09868) [[Code]](https://drive.google.com/drive/folders/1OHyRIQ21ECEZwD2i1xE_7Ahzhqt9w1IO)
   - In *Proceedings of the 20th International Conference on Artificial Intelligence and Law* (Forthcoming)
 
 # Working Papers
