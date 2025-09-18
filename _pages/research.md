@@ -20,12 +20,12 @@ author_profile: true
 
 # Working Papers
 - **Personalized Assortment Optimization for a Subscription Business Model of Experience Goods**  
-  with Gah-Yi Ban, Wedad J. Elmaghraby, and L. Beril Toktay. ***Reject and Resubmit at Management Science*** – [SSRN](https://ssrn.com/abstract=5159539) 
+  with Gah-Yi Ban, Wedad J. Elmaghraby, and L. Beril Toktay. ***Reject and Resubmit at Management Science*** – [[SSRN]](https://ssrn.com/abstract=5159539) 
   - Media Coverage: [Imperial Business Knowledge](https://www.imperial.ac.uk/business-school/ib-knowledge/entrepreneurship-innovation/ai-powered-rental-fashion-smarter-recommendations/)  
   - Presented at MSOM 2025, RMP 2025, Stitch Fix Algo Hours 2025, INFORMS 2024, POMS (2024, 2025), and Purdue Operations Conference 2023
 
 - **AI Self-Preferencing in Algorithmic Hiring: Empirical Evidence and Insights**  
-  with Gujie Li and Jane Yi Jiang. ***Under Review at Proceedings of the National Academy of Sciences*** – [SSRN](https://ssrn.com/abstract=5417394)
+  with Gujie Li and Jane Yi Jiang. ***Under Review at Proceedings of the National Academy of Sciences*** – [[SSRN]](https://ssrn.com/abstract=5417394)
   - Media Coverage: [The Register](https://www.theregister.com/2025/09/03/ai_hiring_biased/)
   - Finalist, Best Student Paper Presentation Award at Fisher AI in Business Conference (Winner TBA)
   - Finalist, INFORMS MIF Summer Webinar Competition 2025 (Winner TBA)
@@ -34,7 +34,7 @@ author_profile: true
   - Supported by Institute for Humane Studies (IHS) Research Grant (\$1,500)
 
 - **How May U.S. Courts Scrutinize Their Recidivism Risk Assessment Tools? Contextualizing AI Fairness Criteria on a Judicial Scrutiny-Based Framework**  
-  with Tin Nguyen, Phuong-Anh Nguyen-Le, Donald Braman, Jonathan Lazar, Hal Daumé III, and Zubin Jelveh. [arXiv](https://arxiv.org/pdf/2505.02749)
+  with Tin Nguyen, Phuong-Anh Nguyen-Le, Donald Braman, Jonathan Lazar, Hal Daumé III, and Zubin Jelveh. [[arXiv]](https://arxiv.org/pdf/2505.02749)
 
 # Selected Works-In-Progress
 - **What You Say or How You Say It? Predicting Freelance Job Success with Large Language Models**  
