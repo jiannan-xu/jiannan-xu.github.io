@@ -29,7 +29,7 @@ author_profile: true
   - Media Coverage: [The Register](https://www.theregister.com/2025/09/03/ai_hiring_biased/)
   - Finalist, Best Student Paper Presentation Award at Fisher AI in Business Conference (Winner TBA)
   - Finalist, INFORMS MIF Summer Webinar Competition 2025 (Winner TBA)
-  - Accepted at Business Conferences: 3rd Annual Business & Generative AI Conference (AI@Wharton 2025), Fisher AI in Business Conference 2025, 2025 Markets & Society Conference, CIST 2025, INFORMS Workshop on Data Science 2025
+  - Accepted at Business Conferences: 3rd Annual Business & Generative AI Conference (AI@Wharton 2025), Fisher AI in Business Conference 2025, 2025 Markets & Society Conference, CIST 2025, INFORMS Workshop on Data Science 2025, INFORMS Workshop on Data Mining and Decision Analytics 2025
   - Accepted at Computer Science Conferences: AAAI/ACM AIES 2025 (Oral presentation; 6% of 748 submissions), EAAMO'25 (Oral presentation; 25.4% of 126 submissions)
   - Supported by Institute for Humane Studies (IHS) Research Grant (\$1,500)
 
