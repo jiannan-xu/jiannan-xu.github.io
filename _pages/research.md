@@ -34,7 +34,7 @@ author_profile: true
   - Supported by Institute for Humane Studies (IHS) Research Grant (\$1,500)
 
 - **How May U.S. Courts Scrutinize Their Recidivism Risk Assessment Tools? Contextualizing AI Fairness Criteria on a Judicial Scrutiny-Based Framework**  
-  with Tin Nguyen, Phuong-Anh Nguyen-Le, Donald Braman, Jonathan Lazar, Hal Daumé III, and Zubin Jelveh. [[arXiv]](https://arxiv.org/pdf/2505.02749)
+  with Tin Nguyen, Phuong-Anh Nguyen-Le, Donald Braman, Jonathan Lazar, Hal Daumé III, and Zubin Jelveh. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5242075)
 
 # Selected Works-In-Progress
 - **What You Say or How You Say It? Predicting Freelance Job Success with Large Language Models**  
