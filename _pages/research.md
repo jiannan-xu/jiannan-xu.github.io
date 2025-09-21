@@ -31,7 +31,7 @@ author_profile: true
   - Finalist, INFORMS MIF Summer Webinar Competition 2025 (Winner TBA)
   - Accepted at Business Conferences: 3rd Annual Business & Generative AI Conference (AI@Wharton 2025), Fisher AI in Business Conference 2025, 2025 Markets & Society Conference, CIST 2025, INFORMS Workshop on Data Science 2025, INFORMS Workshop on Data Mining and Decision Analytics 2025
   - Accepted at Computer Science Conferences: AAAI/ACM AIES 2025 (Oral presentation; 6% of 748 submissions), EAAMO'25 (Oral presentation; 25.4% of 126 submissions)
-  - Supported by Institute for Humane Studies (IHS) Research Grant (\\${1,500}), EAAMO'25 Travel Grant Award (\\${1,050})
+  - Supported by Institute for Humane Studies (IHS) Research Grant (\\$1,500), EAAMO'25 Travel Grant Award (\\$1,050)
 
 - **How May U.S. Courts Scrutinize Their Recidivism Risk Assessment Tools? Contextualizing AI Fairness Criteria on a Judicial Scrutiny-Based Framework**  
   with Tin Nguyen, Phuong-Anh Nguyen-Le, Donald Braman, Jonathan Lazar, Hal Daumé III, and Zubin Jelveh. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5242075)
