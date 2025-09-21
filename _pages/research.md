@@ -39,8 +39,7 @@ author_profile: true
 # Selected Works-In-Progress
 - **What You Say or How You Say It? Predicting Freelance Job Success with Large Language Models**  
   with Ashish S. Kabra, Kunpeng Zhang, and Wedad J. Elmaghraby.
-  - Supported by OpenAI Researcher Access Program (\$1,000)
-  - Supported by Smith Internal Grant (\$10,000)  
+  - Supported by OpenAI Researcher Access Program (\\$1,000), Smith Internal Grant (\\$10,000)  
   - Finalist, UMD Three-Minute Thesis (3MT) Competition 2025
 
 - **AI-Infused Nudges for Supply Chain Decision Making**  
