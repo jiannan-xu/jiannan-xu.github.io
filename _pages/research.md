@@ -47,5 +47,5 @@ author_profile: true
   with Jane Yi Jiang and Wedad J. Elmaghraby.
   - Supported by Faculty–Student Research Award (\$15,000) from the Graduate School
 
-- **AI Copyright Infringement: Customers, Creators, and Model Platforms** <br> 
+- **AI Copyright Infringement: Customers, Creators, and Model Marketplaces** <br> 
   with Jane Yi Jiang and Jiding Zhang.
