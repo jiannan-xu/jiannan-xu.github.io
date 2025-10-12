@@ -25,7 +25,7 @@ author_profile: true
   - Presented at MSOM 2025, RMP 2025, Stitch Fix Algo Hours 2025, INFORMS 2024, POMS (2024, 2025), and Purdue Operations Conference 2023
 
 - **AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights**  
-  with Gujie Li and Jane Yi Jiang. ***Under Review*** – [[SSRN]](https://ssrn.com/abstract=5417394)
+  with Gujie Li and Jane Yi Jiang. ***Under Review at Science Advances*** – [[SSRN]](https://ssrn.com/abstract=5417394)
   - Media Coverage: [The Register](https://www.theregister.com/2025/09/03/ai_hiring_biased/)
   - Best Student Paper Nominee, Conference on Information Systems and Technology 2025 (Winner TBA)
   - Finalist, Best Student Paper Presentation Award at Fisher AI in Business Conference 
