@@ -15,13 +15,13 @@ Research Interests
 ======
 My research centers on the use of artificial intelligence for decision making in operations. I work at the intersection of marketplace analytics, service operations, and AI for social good---addressing critical issues such as algorithmic fairness, AI copyright infringement, and implicit biases in large language models. Methodologically, I draw on optimization, causal inference, and machine learning---particularly natural language processing---to analyze unstructured data, uncover business insights, and tackle complex operational challenges.
 
-<!-- Upcoming Talks
+Upcoming Talks
 ======
-* [Fisher AI in Business Conference](https://fisher.osu.edu/events/ai-in-business)
+* [Eighth AAAI/ACM AIES Conference on AI, Ethics, and Soceity](https://www.aies-conference.com/2025/)
   - **Title:** AI Self-Preferencing in Algorithmic Hiring: Empirical Evidence and Insights
-  - **Session:** Best Presentation Competition – Doctoral Students
-  - **Time:** 1 PM – 2:40 PM, Thursday, October 2nd 2025
-  - **Location:** Pfahl Hall 140, The Ohio State University -->
+  - **Session:** Paper Session #6 Integrating AI into the Workplace
+  - **Time:** 11:45 AM (Central European Summer Time), Wednesday, 10/22
+  - **Location:** Auditorium, Torre Caleido (IE Tower), Paseo de la Castellana 259E, Madrid, Spain
 
 <!-- Recent News
 ======

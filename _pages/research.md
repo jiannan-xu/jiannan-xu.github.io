@@ -11,7 +11,7 @@ author_profile: true
   - In *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing*
 
 - **Effort-Aware Fairness: Incorporating a Philosophy-Informed, Human-Centered Notion of Effort into Algorithmic Fairness Metrics**  
-  with Tin Nguyen, Zora Che, Phuong-Anh Nguyen-Le, Rushil Dandamudi, Donald Braman, Furong Huang, Hal Daumé III, and Zubin Jelveh. **AAAI/ACM AIES 2025** – [[Paper]](https://www.arxiv.org/pdf/2505.19317) [[Code]](https://drive.google.com/drive/folders/1RsSE1dUHDkn41iKCkIhY5QRdAVKVcrtB?usp=sharing)
+  with Tin Nguyen, Zora Che, Phuong-Anh Nguyen-Le, Rushil Dandamudi, Donald Braman, Furong Huang, Hal Daumé III, and Zubin Jelveh. **AAAI/ACM AIES 2025** – [[Paper]](https://www.arxiv.org/pdf/2505.19317)[[Poster]](https://drive.google.com/file/d/16oExrGc_uPPLXnyi8Pi4h468Us_58TdU/view?usp=sharing) [[Code]](https://drive.google.com/drive/folders/1RsSE1dUHDkn41iKCkIhY5QRdAVKVcrtB?usp=sharing) 
   - In *Proceedings of the 8th AAAI/ACM Conference on AI, Ethics, and Society* (Forthcoming)
 
 - **Which Demographic Features Are Relevant for Individual Fairness Evaluation of U.S. Recidivism Risk Assessment Tools?**  
@@ -33,7 +33,7 @@ author_profile: true
   - Third Place, INFORMS K-12 Poster Competition 2025
   - Accepted at Business Conferences: 3rd Annual Business & Generative AI Conference (AI@Wharton 2025), Fisher AI in Business Conference 2025, 2025 Markets & Society Conference, CIST 2025, INFORMS Workshop on Data Science 2025, INFORMS Workshop on Data Mining and Decision Analytics 2025
   - Accepted at Computer Science Conferences: AAAI/ACM AIES 2025 (Oral presentation; 6% of 748 submissions), EAAMO'25 (Oral presentation; 25.4% of 126 submissions)
-  - Supported by Institute for Humane Studies (IHS) Research Grant (\\$1,500), EAAMO'25 Travel Grant Award (\\$1,050)
+  - Supported by Institute for Humane Studies Research Grant (\\$1,500), EAAMO'25 Travel Grant Award (\\$1,050)
 
 - **How May U.S. Courts Scrutinize Their Recidivism Risk Assessment Tools? Contextualizing AI Fairness Criteria on a Judicial Scrutiny-Based Framework**  
   with Tin Nguyen, Phuong-Anh Nguyen-Le, Donald Braman, Jonathan Lazar, Hal Daumé III, and Zubin Jelveh. – [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5242075)
