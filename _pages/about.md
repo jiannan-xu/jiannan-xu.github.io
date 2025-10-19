@@ -17,7 +17,7 @@ My research centers on the use of artificial intelligence for decision making in
 
 Upcoming Talks
 ======
-* [Eighth AAAI/ACM AIES Conference on AI, Ethics, and Soceity](https://www.aies-conference.com/2025/)
+* [Eighth AAAI/ACM Conference on AI, Ethics, and Soceity](https://www.aies-conference.com/2025/)
   - **Title:** AI Self-Preferencing in Algorithmic Hiring: Empirical Evidence and Insights
   - **Session:** Paper Session #6 Integrating AI into the Workplace
   - **Time:** 11:45 AM (Central European Summer Time), Wednesday, 10/22
