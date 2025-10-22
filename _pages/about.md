@@ -24,7 +24,7 @@ Upcoming Talks
   - **Location:** Auditorium, Torre Caleido (IE Tower), Paseo de la Castellana 259E, Madrid, Spain
 
 * INFORMS Annual Meeting 2025 
-  - Decision Sciences Workshop: Saturday, October 25 · 3:15 PM · Building B, Room B306  
+  - Decision Science Workshop: Saturday, October 25 · 3:15 PM · Building B, Room B306  
   - DMDA Workshop: Saturday, October 25 · 3:45 PM · Building B, Room TBA  
   - SA52 Technology and the Future of Work: Sunday, October 26 · 8:00 AM · Building B, Room B312  
 
