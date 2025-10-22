@@ -23,12 +23,12 @@ Upcoming Talks
   - **Time:** 11:45 AM (Central European Summer Time), Wednesday, 10/22
   - **Location:** Auditorium, Torre Caleido (IE Tower), Paseo de la Castellana 259E, Madrid, Spain
 
-* INFORMS Annual Meeting 2025 — Atlanta, GA  
+* INFORMS Annual Meeting 2025 
   - Decision Sciences Workshop: Saturday, October 25 · 3:15 PM · Building B, Room B306  
   - DMDA Workshop: Saturday, October 25 · 3:45 PM · Building B, Room TBA  
   - SA52 Technology and the Future of Work: Sunday, October 26 · 8:00 AM · Building B, Room B312  
 
-* CIST 2025 — Atlanta, GA
+* CIST 2025 
   - Session #4, Track #3: LLM Applications  
   - Sunday, October 26 · 1:50 PM  
   - Hilton Atlanta, Room 212/213  
