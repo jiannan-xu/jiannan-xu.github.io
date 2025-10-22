@@ -25,7 +25,7 @@ Upcoming Talks
 
 * INFORMS DS Workshop: Saturday, Oct 25 3:15 PM | Building B, Room B306
 * INFORMS DMDA Workshop: Saturday, Oct 25 3:45 PM | Building B, Room TBA
-* INFORMS Main Conference: Sunday, Oct 26 8:00 AM | SA25: Technology and Future of Work | Building B, Room B312
+* INFORMS 2025: Sunday, Oct 26 8:00 AM | Technology and Future of Work | Building B, Room B312
 * CIST 2025: Sunday, Oct 26 1:50 PM | Session #4 Track #3: LLMs Application | Hilton Atlanta Room 212/213
 
 <!-- Recent News
