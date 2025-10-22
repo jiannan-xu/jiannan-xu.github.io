@@ -23,6 +23,11 @@ Upcoming Talks
   - **Time:** 11:45 AM (Central European Summer Time), Wednesday, 10/22
   - **Location:** Auditorium, Torre Caleido (IE Tower), Paseo de la Castellana 259E, Madrid, Spain
 
+* INFORMS DS Workshop: Saturday, Oct 25 3:15 PM; Building B, Room B306
+* INFORMS DMDA Workshop: Saturday, Oct 25 3:45 PM; Building B, Room TBA
+* INFORMS Main Conference: Sunday, Oct 26 8:00 AM; SA25: Technology and Future of Work; Building B, Room B312
+* CIST 2025: Sunday, Oct 26 1:50 PM; Session #4 Track #3: LLMs Application; Hilton Atlanta Room 212/213
+
 <!-- Recent News
 ======
 <!-- * June 30, 2025: One project is accepted at the 3rd Annual Business & Generative AI Conference (AI@Wharton) 2025.  -->
