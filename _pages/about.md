@@ -24,7 +24,7 @@ Upcoming Talks
   - **Location:** Auditorium, Torre Caleido (IE Tower), Paseo de la Castellana 259E, Madrid, Spain -->
 * INFORMS Annual Meeting 2025 
   - Data Science Workshop: Saturday, October 25 · 3:15 PM · Building B, Room B306  
-  - DMDA Workshop: Saturday, October 25 · 3:45 PM · Building B, Room TBA  
+  - DMDA Workshop: Saturday, October 25 · 3:45 PM · Building B, Room 313B  
   - SA52 Technology and the Future of Work: Sunday, October 26 · 8:00 AM · Building B, Room B312  
 
 * CIST 2025 
