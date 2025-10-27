@@ -15,14 +15,14 @@ Research Interests
 ======
 My research centers on the use of artificial intelligence for decision making in operations. I work at the intersection of marketplace analytics, service operations, and AI for social good---addressing critical issues such as algorithmic fairness, AI copyright infringement, and implicit biases in large language models. Methodologically, I draw on optimization, causal inference, and machine learning---particularly natural language processing---to analyze unstructured data, uncover business insights, and tackle complex operational challenges.
 
-Upcoming Talks
-======
+<!-- Upcoming Talks
+====== -->
 <!-- * [Eighth AAAI/ACM Conference on AI, Ethics, and Soceity](https://www.aies-conference.com/2025/)
   - **Title:** AI Self-Preferencing in Algorithmic Hiring: Empirical Evidence and Insights
   - **Session:** Paper Session #6 Integrating AI into the Workplace
   - **Time:** 11:45 AM (Central European Summer Time), Wednesday, 10/22
   - **Location:** Auditorium, Torre Caleido (IE Tower), Paseo de la Castellana 259E, Madrid, Spain -->
-* INFORMS Annual Meeting 2025 
+<!-- * INFORMS Annual Meeting 2025 
   - Data Science Workshop: Saturday, October 25 · 3:15 PM · Building B, Room B306  
   - DMDA Workshop: Saturday, October 25 · 3:45 PM · Building B, Room 313B  
   - SA52 Technology and the Future of Work: Sunday, October 26 · 8:00 AM · Building B, Room B312  
@@ -30,7 +30,7 @@ Upcoming Talks
 * CIST 2025 
   - Session #4, Track #3: LLM Applications  
   - Sunday, October 26 · 1:50 PM  
-  - Hilton Atlanta, Room 212/213  
+  - Hilton Atlanta, Room 212/213   -->
 
 <!-- Recent News
 ======
