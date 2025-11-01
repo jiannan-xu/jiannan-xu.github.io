@@ -11,7 +11,7 @@ author_profile: true
   - In *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing*
 
 - **Effort-Aware Fairness: Incorporating a Philosophy-Informed, Human-Centered Notion of Effort into Algorithmic Fairness Metrics**  
-  with Tin Nguyen, Zora Che, Phuong-Anh Nguyen-Le, Rushil Dandamudi, Donald Braman, Furong Huang, Hal Daumé III, and Zubin Jelveh. **AAAI/ACM AIES 2025** – [[Paper]](https://www.arxiv.org/pdf/2505.19317)[[Poster]](https://drive.google.com/file/d/16oExrGc_uPPLXnyi8Pi4h468Us_58TdU/view?usp=sharing) [[Code]](https://drive.google.com/drive/folders/1RsSE1dUHDkn41iKCkIhY5QRdAVKVcrtB?usp=sharing) 
+  with Tin Nguyen, Zora Che, Phuong-Anh Nguyen-Le, Rushil Dandamudi, Donald Braman, Furong Huang, Hal Daumé III, and Zubin Jelveh. **AAAI/ACM AIES 2025** – [[Paper]](https://www.arxiv.org/pdf/2505.19317) [[Poster]](https://drive.google.com/file/d/16oExrGc_uPPLXnyi8Pi4h468Us_58TdU/view?usp=sharing) [[Code]](https://drive.google.com/drive/folders/1RsSE1dUHDkn41iKCkIhY5QRdAVKVcrtB?usp=sharing) 
   - In *Proceedings of the 8th AAAI/ACM Conference on AI, Ethics, and Society*
 
 - **Which Demographic Features Are Relevant for Individual Fairness Evaluation of U.S. Recidivism Risk Assessment Tools?**  
