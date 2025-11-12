@@ -27,7 +27,7 @@ author_profile: true
 - **AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights**  
   with Gujie Li and Jane Yi Jiang. ***Under Review at Science Advances*** – [[SSRN]](https://ssrn.com/abstract=5417394)
   - Media Coverage: [The Register](https://www.theregister.com/2025/09/03/ai_hiring_biased/)
-  - Best Student Paper Runner-up, Conference on Information Systems and Technology 2025 
+  - Runner-up, Best Student Paper at Conference on Information Systems and Technology 2025 
   - Finalist, Best Student Paper Presentation Award at Fisher AI in Business Conference 
   - Winner, INFORMS Minority Issues Forum Summer Webinar Competition 2025 
   - Third Place, INFORMS K-12 Poster Competition 2025
