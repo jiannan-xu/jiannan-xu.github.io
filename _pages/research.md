@@ -31,7 +31,7 @@ author_profile: true
   - Finalist, Best Student Paper Presentation Award at Fisher AI in Business Conference 
   - Winner, INFORMS Minority Issues Forum Summer Webinar Competition 2025 
   - Third Place, INFORMS K-12 Poster Competition 2025
-  - Accepted at Business Conferences: 3rd Annual Business & Generative AI Conference (AI@Wharton 2025), Fisher AI in Business Conference 2025, 2025 Markets & Society Conference, CIST 2025, INFORMS Workshop on Data Science 2025, INFORMS Workshop on Data Mining and Decision Analytics 2025
+  - Accepted at Business Conferences: 3rd Annual Business & Generative AI Conference (AI@Wharton 2025), Accountable AI Research Conference at Wharton, Fisher AI in Business Conference 2025, CIST 2025, INFORMS Workshop on Data Science 2025, INFORMS Workshop on Data Mining and Decision Analytics 2025
   - Accepted at Computer Science Conferences: AAAI/ACM AIES 2025 (Oral presentation; 6% of 748 submissions), EAAMO'25 (Oral presentation; 25.4% of 126 submissions)
   - Supported by Institute for Humane Studies Research Grant (\\$1,500), EAAMO'25 Travel Grant Award (\\$1,050)
 
