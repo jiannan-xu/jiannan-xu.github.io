@@ -20,7 +20,7 @@ Service
 * Main Ogranizer, [Virtual Operations Management Research Lunch](https://sites.google.com/umd.edu/vomrl/home)
 * Conference Reviewer: EMNLP 2023, ICLR 2024 Tiny Papers, NAACL Student Research Workshop 2024, INFORMS Data Science Workshop (2024, 2025), COLM 2025, WITS 2025
 * Program Committee: ACM EAAMO 2025, ACM/AAAI AIES 2025, AAAI Special Track on AI for Social Impact (AISI) 2026
-* Journal Reviewer: INFORMS Journal on Computing
+* Journal Reviewer: INFORMS Journal on Computing, Artificial Intelligence and Law
 * Session Chair: POMS (2024, 2025, 2026), MSOM 2025
 
 
