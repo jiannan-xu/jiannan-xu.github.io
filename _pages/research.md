@@ -42,6 +42,7 @@ author_profile: true
             <li>Accountable AI Research Conference at Wharton</li>
             <li>Fisher AI in Business Conference at OSU</li>
             <li>IDEI AI for Business Conference at HKU</li>
+            <li>2025 Conference on Artificial Intelligence, Machine Learning, and Business Analytics</li>
             <li>3rd Workshop on Empirical Operations Management</li>
             <li>3rd Annual Philadelphia Operations and Technology Day</li>
             <li>Conference on Information Systems and Technology 2025</li>
