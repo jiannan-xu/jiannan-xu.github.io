@@ -41,14 +41,13 @@ author_profile: true
     - Fisher AI in Business Conference at OSU  
     - IDEI AI for Business Conference at HKU  
     - 3rd Workshop on Empirical Operations Management  
-    - CIST 2025  
+    - Conference on Information Systems and Technology 2025 
     - INFORMS Workshop on Data Science 2025  
     - INFORMS Workshop on Data Mining and Decision Analytics 2025  
 
     **Accepted at Computer Science Conferences:**  
     - AAAI/ACM AIES 2025 (Oral presentation; 6% of 748 submissions)  
-    - ACM EAAMO'25 (Oral presentation; 25.4% of 126 submissions)  
-
+    - ACM EAAMO'25 (Oral presentation; 25.4% of 126 submissions) 
   </details>
 
 - **How May U.S. Courts Scrutinize Their Recidivism Risk Assessment Tools? Contextualizing AI Fairness Criteria on a Judicial Scrutiny-Based Framework**  
