@@ -33,7 +33,7 @@ author_profile: true
   - Third Place, INFORMS K-12 Poster Competition 2025
   - Supported by Institute for Humane Studies Research Grant (\\$1,500), ACM EAAMO'25 Travel Grant Award (\\$1,050)
   - <details>
-      <summary><strong>Talks & Conferences (click to expand)</strong></summary>
+      <summary style="list-style: none; cursor: pointer;"><strong>Talks & Conferences (click to expand)</strong></summary>
 
       <ul>
         <li><strong>Accepted at Business Conferences:</strong>
@@ -43,7 +43,7 @@ author_profile: true
             <li>Fisher AI in Business Conference at OSU</li>
             <li>IDEI AI for Business Conference at HKU</li>
             <li>3rd Workshop on Empirical Operations Management</li>
-            <li>CIST 2025</li>
+            <li>Conference on Information Systems and Technology 2025</li>
             <li>INFORMS Workshop on Data Science 2025</li>
             <li>INFORMS Workshop on Data Mining and Decision Analytics 2025</li>
           </ul>
