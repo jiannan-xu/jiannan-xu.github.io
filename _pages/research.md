@@ -47,7 +47,7 @@ author_profile: true
      - **Accepted at Computer Science Conferences:**  
         - AAAI/ACM AIES 2025 (Oral presentation; 6% of 748 submissions),  
         - ACM EAAMO'25 (Oral presentation; 25.4% of 126 submissions)  
-  </details>
+    </details>
 
 - **How May U.S. Courts Scrutinize Their Recidivism Risk Assessment Tools? Contextualizing AI Fairness Criteria on a Judicial Scrutiny-Based Framework**  
   with Tin Nguyen, Phuong-Anh Nguyen-Le, Donald Braman, Jonathan Lazar, Hal Daumé III, and Zubin Jelveh. – [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5242075)
