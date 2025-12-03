@@ -31,7 +31,7 @@ author_profile: true
   - Finalist, Best Student Paper Presentation Award at Fisher AI in Business Conference 
   - Winner, INFORMS Minority Issues Forum Summer Webinar Competition 2025 
   - Third Place, INFORMS K-12 Poster Competition 2025
-  - Supported by Institute for Humane Studies Research Grant (\\$1,500), ACM EAAMO'25 Travel Grant Award (\\$1,050)
+  - Supported by Institute for Humane Studies Research Grant (\\$1,500), EAAMO'25 Travel Grant Award (\\$1,050)
   - <details>
       <summary style="list-style: none; cursor: pointer;"><strong>Talks & Conferences (click to expand)</strong></summary>
 
