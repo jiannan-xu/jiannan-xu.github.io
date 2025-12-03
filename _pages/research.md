@@ -43,6 +43,7 @@ author_profile: true
             <li>Fisher AI in Business Conference at OSU</li>
             <li>IDEI AI for Business Conference at HKU</li>
             <li>3rd Workshop on Empirical Operations Management</li>
+            <li>3rd Annual Philadelphia Operations and Technology Day</li>
             <li>Conference on Information Systems and Technology 2025</li>
             <li>INFORMS Workshop on Data Science 2025</li>
             <li>INFORMS Workshop on Data Mining and Decision Analytics 2025</li>
@@ -56,7 +57,6 @@ author_profile: true
           </ul>
         </li>
       </ul>
-
     </details>
 
 - **How May U.S. Courts Scrutinize Their Recidivism Risk Assessment Tools? Contextualizing AI Fairness Criteria on a Judicial Scrutiny-Based Framework**  
