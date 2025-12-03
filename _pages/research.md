@@ -32,22 +32,31 @@ author_profile: true
   - Winner, INFORMS Minority Issues Forum Summer Webinar Competition 2025 
   - Third Place, INFORMS K-12 Poster Competition 2025
   - Supported by Institute for Humane Studies Research Grant (\\$1,500), ACM EAAMO'25 Travel Grant Award (\\$1,050)
-   <details>
+  <details>
     <summary><strong>Talks & Conferences (click to expand)</strong></summary>
 
-    **Accepted at Business Conferences:**  
-    - 3rd Annual Business & Generative AI Conference (AI@Wharton 2025)  
-    - Accountable AI Research Conference at Wharton  
-    - Fisher AI in Business Conference at OSU  
-    - IDEI AI for Business Conference at HKU  
-    - 3rd Workshop on Empirical Operations Management  
-    - Conference on Information Systems and Technology 2025 
-    - INFORMS Workshop on Data Science 2025  
-    - INFORMS Workshop on Data Mining and Decision Analytics 2025  
+    <ul>
+      <li><strong>Accepted at Business Conferences:</strong>
+        <ul>
+          <li>3rd Annual Business & Generative AI Conference (AI@Wharton 2025)</li>
+          <li>Accountable AI Research Conference at Wharton</li>
+          <li>Fisher AI in Business Conference at OSU</li>
+          <li>IDEI AI for Business Conference at HKU</li>
+          <li>3rd Workshop on Empirical Operations Management</li>
+          <li>Conference on Information Systems and Technology 2025</li>
+          <li>INFORMS Workshop on Data Science 2025</li>
+          <li>INFORMS Workshop on Data Mining and Decision Analytics 2025</li>
+        </ul>
+      </li>
 
-    **Accepted at Computer Science Conferences:**  
-    - AAAI/ACM AIES 2025 (Oral presentation; 6% of 748 submissions)  
-    - ACM EAAMO'25 (Oral presentation; 25.4% of 126 submissions) 
+      <li><strong>Accepted at Computer Science Conferences:</strong>
+        <ul>
+          <li>AAAI/ACM AIES 2025 (Oral presentation; 6% of 748 submissions)</li>
+          <li>ACM EAAMO'25 (Oral presentation; 25.4% of 126 submissions)</li>
+        </ul>
+      </li>
+    </ul>
+
   </details>
 
 - **How May U.S. Courts Scrutinize Their Recidivism Risk Assessment Tools? Contextualizing AI Fairness Criteria on a Judicial Scrutiny-Based Framework**  
