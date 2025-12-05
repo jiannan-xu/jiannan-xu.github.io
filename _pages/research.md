@@ -40,7 +40,7 @@ author_profile: true
           <ul>
             <li>3rd Annual Business & Generative AI Conference at Wharton</li>
             <li>Inaugural Accountable AI Research Conference at Wharton</li>
-            <li>Inaugural Fisher AI in Business Conference at OSU</li>
+            <li>Inaugural AI in Business Conference at OSU</li>
             <li>IDEI AI for Business Conference at HKU</li>
             <li>2025 Conference on Artificial Intelligence, Machine Learning, and Business Analytics</li>
             <li>3rd Workshop on Empirical Operations Management </li>
